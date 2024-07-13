@@ -1,0 +1,3524 @@
+[
+    {
+        "id": 1,
+        "prompt": "Io {input} (aprire) la finestra ogni mattina.",
+        "answer": "apro",
+        "translation": "I open the window every morning.",
+        "audio": "1_Io_apro_la_finestra_ogni_mattina.mp3"
+    },
+    {
+        "id": 2,
+        "prompt": "Tu {input} (dormire) otto ore ogni notte.",
+        "answer": "dormi",
+        "translation": "You sleep eight hours every night.",
+        "audio": "2_Tu_dormi_otto_ore_ogni_notte.mp3"
+    },
+    {
+        "id": 3,
+        "prompt": "Lui {input} (finire) il lavoro prima di cena.",
+        "answer": "finisce",
+        "translation": "He finishes the work before dinner.",
+        "audio": "3_Lui_finisce_il_lavoro_prima_di_cena.mp3"
+    },
+    {
+        "id": 4,
+        "prompt": "Noi {input} (capire) la lezione di matematica.",
+        "answer": "capiamo",
+        "translation": "We understand the math lesson.",
+        "audio": "4_Noi_capiamo_la_lezione_di_matematica.mp3"
+    },
+    {
+        "id": 5,
+        "prompt": "Voi {input} (partire) per le vacanze domani.",
+        "answer": "partite",
+        "translation": "You all leave for vacation tomorrow.",
+        "audio": "5_Voi_partite_per_le_vacanze_domani.mp3"
+    },
+    {
+        "id": 6,
+        "prompt": "Loro {input} (seguire) il corso di italiano.",
+        "answer": "seguono",
+        "translation": "They follow the Italian course.",
+        "audio": "6_Loro_seguono_il_corso_di_italiano.mp3"
+    },
+    {
+        "id": 7,
+        "prompt": "Io {input} (pulire) la casa ogni sabato.",
+        "answer": "pulisco",
+        "translation": "I clean the house every Saturday.",
+        "audio": "7_Io_pulisco_la_casa_ogni_sabato.mp3"
+    },
+    {
+        "id": 8,
+        "prompt": "Tu {input} (costruire) un castello di sabbia.",
+        "answer": "costruisci",
+        "translation": "You build a sandcastle.",
+        "audio": "8_Tu_costruisci_un_castello_di_sabbia.mp3"
+    },
+    {
+        "id": 9,
+        "prompt": "Lei {input} (soffrire) di allergie in primavera.",
+        "answer": "soffre",
+        "translation": "She suffers from allergies in the spring.",
+        "audio": "9_Lei_soffre_di_allergie_in_primavera.mp3"
+    },
+    {
+        "id": 10,
+        "prompt": "Noi {input} (preferire) il tè al caffè.",
+        "answer": "preferiamo",
+        "translation": "We prefer tea to coffee.",
+        "audio": "10_Noi_preferiamo_il_te_al_caffe.mp3"
+    },
+    {
+        "id": 11,
+        "prompt": "Voi {input} (spedire) la lettera oggi?",
+        "answer": "spedite",
+        "translation": "Do you all send the letter today?",
+        "audio": "11_Voi_spedite_la_lettera_oggi.mp3"
+    },
+    {
+        "id": 12,
+        "prompt": "Loro {input} (suggerire) un ristorante nuovo.",
+        "answer": "suggeriscono",
+        "translation": "They suggest a new restaurant.",
+        "audio": "12_Loro_suggeriscono_un_ristorante_nuovo.mp3"
+    },
+    {
+        "id": 13,
+        "prompt": "Io {input} (sentire) la musica dalla mia stanza.",
+        "answer": "sento",
+        "translation": "I hear the music from my room.",
+        "audio": "13_Io_sento_la_musica_dalla_mia_stanza.mp3"
+    },
+    {
+        "id": 14,
+        "prompt": "Tu {input} (aprire) il libro a pagina venti.",
+        "answer": "apri",
+        "translation": "You open the book to page twenty.",
+        "audio": "14_Tu_apri_il_libro_a_pagina_venti.mp3"
+    },
+    {
+        "id": 15,
+        "prompt": "Lui {input} (finire) sempre tardi il suo lavoro.",
+        "answer": "finisce",
+        "translation": "He always finishes his work late.",
+        "audio": "15_Lui_finisce_sempre_tardi_il_suo_lavoro.mp3"
+    },
+    {
+        "id": 16,
+        "prompt": "Noi {input} (offrire) il nostro aiuto ai bisognosi.",
+        "answer": "offriamo",
+        "translation": "We offer our help to those in need.",
+        "audio": "16_Noi_offriamo_il_nostro_aiuto_ai_bisognosi.mp3"
+    },
+    {
+        "id": 17,
+        "prompt": "Voi {input} (costruire) una nuova casa.",
+        "answer": "costruite",
+        "translation": "You all build a new house.",
+        "audio": "17_Voi_costruite_una_nuova_casa.mp3"
+    },
+    {
+        "id": 18,
+        "prompt": "Loro {input} (pulire) il giardino ogni domenica.",
+        "answer": "puliscono",
+        "translation": "They clean the garden every Sunday.",
+        "audio": "18_Loro_puliscono_il_giardino_ogni_domenica.mp3"
+    },
+    {
+        "id": 19,
+        "prompt": "Io {input} (partire) per un viaggio domani.",
+        "answer": "parto",
+        "translation": "I leave for a trip tomorrow.",
+        "audio": "19_Io_parto_per_un_viaggio_domani.mp3"
+    },
+    {
+        "id": 20,
+        "prompt": "Tu {input} (dormire) nel pomeriggio?",
+        "answer": "dormi",
+        "translation": "Do you sleep in the afternoon?",
+        "audio": "20_Tu_dormi_nel_pomeriggio.mp3"
+    },
+    {
+        "id": 21,
+        "prompt": "Lei {input} (seguire) una dieta equilibrata.",
+        "answer": "segue",
+        "translation": "She follows a balanced diet.",
+        "audio": "21_Lei_segue_una_dieta_equilibrata.mp3"
+    },
+    {
+        "id": 22,
+        "prompt": "Noi {input} (finire) il progetto entro venerdì.",
+        "answer": "finiamo",
+        "translation": "We finish the project by Friday.",
+        "audio": "22_Noi_finiamo_il_progetto_entro_venerdi.mp3"
+    },
+    {
+        "id": 23,
+        "prompt": "Voi {input} (spedire) il pacco per posta.",
+        "answer": "spedite",
+        "translation": "You all send the package by mail.",
+        "audio": "23_Voi_spedite_il_pacco_per_posta.mp3"
+    },
+    {
+        "id": 24,
+        "prompt": "Loro {input} (suggerire) un film da vedere.",
+        "answer": "suggeriscono",
+        "translation": "They suggest a film to watch.",
+        "audio": "24_Loro_suggeriscono_un_film_da_vedere.mp3"
+    },
+    {
+        "id": 25,
+        "prompt": "Io {input} (aprire) una bottiglia di vino.",
+        "answer": "apro",
+        "translation": "I open a bottle of wine.",
+        "audio": "25_Io_apro_una_bottiglia_di_vino.mp3"
+    },
+    {
+        "id": 26,
+        "prompt": "Tu {input} (capire) il problema?",
+        "answer": "capisci",
+        "translation": "Do you understand the problem?",
+        "audio": "26_Tu_capisci_il_problema.mp3"
+    },
+    {
+        "id": 27,
+        "prompt": "Lui {input} (preferire) il mare alla montagna.",
+        "answer": "preferisce",
+        "translation": "He prefers the sea to the mountains.",
+        "audio": "27_Lui_preferisce_il_mare_alla_montagna.mp3"
+    },
+    {
+        "id": 28,
+        "prompt": "Noi {input} (soffrire) il caldo in estate.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the heat in summer.",
+        "audio": "28_Noi_soffriamo_il_caldo_in_estate.mp3"
+    },
+    {
+        "id": 29,
+        "prompt": "Voi {input} (pulire) la cucina dopo cena.",
+        "answer": "pulite",
+        "translation": "You all clean the kitchen after dinner.",
+        "audio": "29_Voi_pulite_la_cucina_dopo_cena.mp3"
+    },
+    {
+        "id": 30,
+        "prompt": "Loro {input} (partire) per le vacanze in agosto.",
+        "answer": "partono",
+        "translation": "They leave for vacation in August.",
+        "audio": "30_Loro_partono_per_le_vacanze_in_agosto.mp3"
+    },
+    {
+        "id": 31,
+        "prompt": "Io {input} (sentire) il profumo dei fiori.",
+        "answer": "sento",
+        "translation": "I smell the scent of flowers.",
+        "audio": "31_Io_sento_il_profumo_dei_fiori.mp3"
+    },
+    {
+        "id": 32,
+        "prompt": "Tu {input} (dormire) bene la notte?",
+        "answer": "dormi",
+        "translation": "Do you sleep well at night?",
+        "audio": "32_Tu_dormi_bene_la_notte.mp3"
+    },
+    {
+        "id": 33,
+        "prompt": "Lei {input} (offrire) un caffè ai suoi ospiti.",
+        "answer": "offre",
+        "translation": "She offers coffee to her guests.",
+        "audio": "33_Lei_offre_un_caffe_ai_suoi_ospiti.mp3"
+    },
+    {
+        "id": 34,
+        "prompt": "Noi {input} (aprire) il negozio alle nove.",
+        "answer": "apriamo",
+        "translation": "We open the store at nine.",
+        "audio": "34_Noi_apriamo_il_negozio_alle_nove.mp3"
+    },
+    {
+        "id": 35,
+        "prompt": "Voi {input} (finire) sempre il compito in tempo.",
+        "answer": "finite",
+        "translation": "You all always finish the task on time.",
+        "audio": "35_Voi_finite_sempre_il_compito_in_tempo.mp3"
+    },
+    {
+        "id": 36,
+        "prompt": "Loro {input} (costruire) una nuova strada.",
+        "answer": "costruiscono",
+        "translation": "They build a new road.",
+        "audio": "36_Loro_costruiscono_una_nuova_strada.mp3"
+    },
+    {
+        "id": 37,
+        "prompt": "Io {input} (pulire) la mia camera ogni settimana.",
+        "answer": "pulisco",
+        "translation": "I clean my room every week.",
+        "audio": "37_Io_pulisco_la_mia_camera_ogni_settimana.mp3"
+    },
+    {
+        "id": 38,
+        "prompt": "Tu {input} (seguire) la moda?",
+        "answer": "segui",
+        "translation": "Do you follow fashion?",
+        "audio": "38_Tu_segui_la_moda.mp3"
+    },
+    {
+        "id": 39,
+        "prompt": "Lui {input} (spedire) una cartolina da Roma.",
+        "answer": "spedisce",
+        "translation": "He sends a postcard from Rome.",
+        "audio": "39_Lui_spedisce_una_cartolina_da_Roma.mp3"
+    },
+    {
+        "id": 40,
+        "prompt": "Noi {input} (capire) le tue preoccupazioni.",
+        "answer": "capiamo",
+        "translation": "We understand your concerns.",
+        "audio": "40_Noi_capiamo_le_tue_preoccupazioni.mp3"
+    },
+    {
+        "id": 41,
+        "prompt": "Voi {input} (suggerire) di andare al cinema.",
+        "answer": "suggerite",
+        "translation": "You all suggest going to the cinema.",
+        "audio": "41_Voi_suggerite_di_andare_al_cinema.mp3"
+    },
+    {
+        "id": 42,
+        "prompt": "Loro {input} (aprire) un nuovo ristorante.",
+        "answer": "aprono",
+        "translation": "They open a new restaurant.",
+        "audio": "42_Loro_aprono_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 43,
+        "prompt": "Io {input} (finire) il libro oggi.",
+        "answer": "finisco",
+        "translation": "I finish the book today.",
+        "audio": "43_Io_finisco_il_libro_oggi.mp3"
+    },
+    {
+        "id": 44,
+        "prompt": "Tu {input} (preferire) la pizza o la pasta?",
+        "answer": "preferisci",
+        "translation": "Do you prefer pizza or pasta?",
+        "audio": "44_Tu_preferisci_la_pizza_o_la_pasta.mp3"
+    },
+
+    {
+        "id": 45,
+        "prompt": "Lei {input} (soffrire) di mal di testa.",
+        "answer": "soffre",
+        "translation": "She suffers from a headache.",
+        "audio": "45_Lei_soffre_di_mal_di_testa.mp3"
+    },
+    {
+        "id": 46,
+        "prompt": "Noi {input} (partire) per il mare domani.",
+        "answer": "partiamo",
+        "translation": "We leave for the sea tomorrow.",
+        "audio": "46_Noi_partiamo_per_il_mare_domani.mp3"
+    },
+    {
+        "id": 47,
+        "prompt": "Voi {input} (dormire) fino a tardi la domenica?",
+        "answer": "dormite",
+        "translation": "Do you all sleep late on Sundays?",
+        "audio": "47_Voi_dormite_fino_a_tardi_la_domenica.mp3"
+    },
+    {
+        "id": 48,
+        "prompt": "Loro {input} (offrire) aiuto ai nuovi studenti.",
+        "answer": "offrono",
+        "translation": "They offer help to new students.",
+        "audio": "48_Loro_offrono_aiuto_ai_nuovi_studenti.mp3"
+    },
+    {
+        "id": 49,
+        "prompt": "Io {input} (sentire) la tua voce chiaramente.",
+        "answer": "sento",
+        "translation": "I hear your voice clearly.",
+        "audio": "49_Io_sento_la_tua_voce_chiaramente.mp3"
+    },
+    {
+        "id": 50,
+        "prompt": "Tu {input} (aprire) la porta per favore?",
+        "answer": "apri",
+        "translation": "Do you open the door, please?",
+        "audio": "50_Tu_apri_la_porta_per_favore.mp3"
+    },
+    {
+        "id": 51,
+        "prompt": "Lui {input} (finire) il suo turno di lavoro.",
+        "answer": "finisce",
+        "translation": "He finishes his work shift.",
+        "audio": "51_Lui_finisce_il_suo_turno_di_lavoro.mp3"
+    },
+    {
+        "id": 52,
+        "prompt": "Noi {input} (capire) le istruzioni del gioco.",
+        "answer": "capiamo",
+        "translation": "We understand the game instructions.",
+        "audio": "52_Noi_capiamo_le_istruzioni_del_gioco.mp3"
+    },
+    {
+        "id": 53,
+        "prompt": "Voi {input} (suggerire) una soluzione?",
+        "answer": "suggerite",
+        "translation": "Do you all suggest a solution?",
+        "audio": "53_Voi_suggerite_una_soluzione.mp3"
+    },
+    {
+        "id": 54,
+        "prompt": "Loro {input} (costruire) una piscina nel giardino.",
+        "answer": "costruiscono",
+        "translation": "They build a pool in the garden.",
+        "audio": "54_Loro_costruiscono_una_piscina_nel_giardino.mp3"
+    },
+    {
+        "id": 55,
+        "prompt": "Io {input} (pulire) il pavimento ogni giorno.",
+        "answer": "pulisco",
+        "translation": "I clean the floor every day.",
+        "audio": "55_Io_pulisco_il_pavimento_ogni_giorno.mp3"
+    },
+    {
+        "id": 56,
+        "prompt": "Tu {input} (seguire) un corso di danza.",
+        "answer": "segui",
+        "translation": "You follow a dance course.",
+        "audio": "56_Tu_segui_un_corso_di_danza.mp3"
+    },
+    {
+        "id": 57,
+        "prompt": "Lei {input} (spedire) un pacco ogni settimana.",
+        "answer": "spedisce",
+        "translation": "She sends a package every week.",
+        "audio": "57_Lei_spedisce_un_pacco_ogni_settimana.mp3"
+    },
+    {
+        "id": 58,
+        "prompt": "Noi {input} (aprire) le finestre per aria fresca.",
+        "answer": "apriamo",
+        "translation": "We open the windows for fresh air.",
+        "audio": "58_Noi_apriamo_le_finestre_per_aria_fresca.mp3"
+    },
+    {
+        "id": 59,
+        "prompt": "Voi {input} (finire) il lavoro prima di pranzo.",
+        "answer": "finite",
+        "translation": "You all finish work before lunch.",
+        "audio": "59_Voi_finite_il_lavoro_prima_di_pranzo.mp3"
+    },
+    {
+        "id": 60,
+        "prompt": "Loro {input} (preferire) il cinema al teatro.",
+        "answer": "preferiscono",
+        "translation": "They prefer the cinema to the theater.",
+        "audio": "60_Loro_preferiscono_il_cinema_al_teatro.mp3"
+    },
+    {
+        "id": 61,
+        "prompt": "Io {input} (sentire) il suono del mare.",
+        "answer": "sento",
+        "translation": "I hear the sound of the sea.",
+        "audio": "61_Io_sento_il_suono_del_mare.mp3"
+    },
+    {
+        "id": 62,
+        "prompt": "Tu {input} (dormire) ancora?",
+        "answer": "dormi",
+        "translation": "Are you still sleeping?",
+        "audio": "62_Tu_dormi_ancora.mp3"
+    },
+    {
+        "id": 63,
+        "prompt": "Lui {input} (offrire) una cena ai suoi amici.",
+        "answer": "offre",
+        "translation": "He offers a dinner to his friends.",
+        "audio": "63_Lui_offre_una_cena_ai_suoi_amici.mp3"
+    },
+    {
+        "id": 64,
+        "prompt": "Noi {input} (partire) per una gita.",
+        "answer": "partiamo",
+        "translation": "We leave for a trip.",
+        "audio": "64_Noi_partiamo_per_una_gita.mp3"
+    },
+    {
+        "id": 65,
+        "prompt": "Voi {input} (suggerire) un libro interessante.",
+        "answer": "suggerite",
+        "translation": "You all suggest an interesting book.",
+        "audio": "65_Voi_suggerite_un_libro_interessante.mp3"
+    },
+    {
+        "id": 66,
+        "prompt": "Loro {input} (costruire) una nuova scuola.",
+        "answer": "costruiscono",
+        "translation": "They build a new school.",
+        "audio": "66_Loro_costruiscono_una_nuova_scuola.mp3"
+    },
+    {
+        "id": 67,
+        "prompt": "Io {input} (pulire) i vetri ogni mese.",
+        "answer": "pulisco",
+        "translation": "I clean the windows every month.",
+        "audio": "67_Io_pulisco_i_vetri_ogni_mese.mp3"
+    },
+    {
+        "id": 68,
+        "prompt": "Tu {input} (seguire) la squadra di calcio?",
+        "answer": "segui",
+        "translation": "Do you follow the football team?",
+        "audio": "68_Tu_segui_la_squadra_di_calcio.mp3"
+    },
+    {
+        "id": 69,
+        "prompt": "Lei {input} (spedire) un'email importante.",
+        "answer": "spedisce",
+        "translation": "She sends an important email.",
+        "audio": "69_Lei_spedisce_un_email_importante.mp3"
+    },
+    {
+        "id": 70,
+        "prompt": "Noi {input} (aprire) un conto in banca.",
+        "answer": "apriamo",
+        "translation": "We open a bank account.",
+        "audio": "70_Noi_apriamo_un_conto_in_banca.mp3"
+    },
+    {
+        "id": 71,
+        "prompt": "Voi {input} (finire) la partita?",
+        "answer": "finite",
+        "translation": "Do you all finish the match?",
+        "audio": "71_Voi_finite_la_partita.mp3"
+    },
+    {
+        "id": 72,
+        "prompt": "Loro {input} (preferire) la lettura alla TV.",
+        "answer": "preferiscono",
+        "translation": "They prefer reading to TV.",
+        "audio": "72_Loro_preferiscono_la_lettura_alla_TV.mp3"
+    },
+    {
+        "id": 73,
+        "prompt": "Io {input} (sentire) il rumore del traffico.",
+        "answer": "sento",
+        "translation": "I hear the noise of traffic.",
+        "audio": "73_Io_sento_il_rumore_del_traffico.mp3"
+    },
+    {
+        "id": 74,
+        "prompt": "Tu {input} (dormire) con il ventilatore acceso?",
+        "answer": "dormi",
+        "translation": "Do you sleep with the fan on?",
+        "audio": "74_Tu_dormi_con_il_ventilatore_acceso.mp3"
+    },
+    {
+        "id": 75,
+        "prompt": "Lui {input} (offrire) un brindisi.",
+        "answer": "offre",
+        "translation": "He offers a toast.",
+        "audio": "75_Lui_offre_un_brindisi.mp3"
+    },
+    {
+        "id": 76,
+        "prompt": "Noi {input} (partire) insieme per il concerto.",
+        "answer": "partiamo",
+        "translation": "We leave together for the concert.",
+        "audio": "76_Noi_partiamo_insieme_per_il_concerto.mp3"
+    },
+    {
+        "id": 77,
+        "prompt": "Voi {input} (suggerire) un altro percorso.",
+        "answer": "suggerite",
+        "translation": "You all suggest another route.",
+        "audio": "77_Voi_suggerite_un_altro_percorso.mp3"
+    },
+    {
+        "id": 78,
+        "prompt": "Loro {input} (costruire) un ponte.",
+        "answer": "costruiscono",
+        "translation": "They build a bridge.",
+        "audio": "78_Loro_costruiscono_un_ponte.mp3"
+    },
+    {
+        "id": 79,
+        "prompt": "Io {input} (pulire) i piatti dopo cena.",
+        "answer": "pulisco",
+        "translation": "I clean the dishes after dinner.",
+        "audio": "79_Io_pulisco_i_piatti_dopo_cena.mp3"
+    },
+    {
+        "id": 80,
+        "prompt": "Tu {input} (seguire) la serie TV?",
+        "answer": "segui",
+        "translation": "Do you follow the TV series?",
+        "audio": "80_Tu_segui_la_serie_TV.mp3"
+    },
+    {
+        "id": 81,
+        "prompt": "Lei {input} (spedire) il documento per fax.",
+        "answer": "spedisce",
+        "translation": "She sends the document by fax.",
+        "audio": "81_Lei_spedisce_il_documento_per_fax.mp3"
+    },
+    {
+        "id": 82,
+        "prompt": "Noi {input} (aprire) la porta principale.",
+        "answer": "apriamo",
+        "translation": "We open the main door.",
+        "audio": "82_Noi_apriamo_la_porta_principale.mp3"
+    },
+    {
+        "id": 83,
+        "prompt": "Voi {input} (finire) di leggere il giornale?",
+        "answer": "finite",
+        "translation": "Do you all finish reading the newspaper?",
+        "audio": "83_Voi_finite_di_leggere_il_giornale.mp3"
+    },
+    {
+        "id": 84,
+        "prompt": "Loro {input} (preferire) il vino rosso al bianco.",
+        "answer": "preferiscono",
+        "translation": "They prefer red wine to white.",
+        "audio": "84_Loro_preferiscono_il_vino_rosso_al_bianco.mp3"
+    },
+    {
+        "id": 85,
+        "prompt": "Io {input} (sentire) il calore del sole.",
+        "answer": "sento",
+        "translation": "I feel the heat of the sun.",
+        "audio": "85_Io_sento_il_calore_del_sole.mp3"
+    },
+    {
+        "id": 86,
+        "prompt": "Tu {input} (dormire) in un sacco a pelo?",
+        "answer": "dormi",
+        "translation": "Do you sleep in a sleeping bag?",
+        "audio": "86_Tu_dormi_in_un_sacco_a_pelo.mp3"
+    },
+    {
+        "id": 87,
+        "prompt": "Lui {input} (offrire) un passaggio in macchina.",
+        "answer": "offre",
+        "translation": "He offers a ride in the car.",
+        "audio": "87_Lui_offre_un_passaggio_in_macchina.mp3"
+    },
+    {
+        "id": 88,
+        "prompt": "Noi {input} (partire) domani mattina.",
+        "answer": "partiamo",
+        "translation": "We leave tomorrow morning.",
+        "audio": "88_Noi_partiamo_domani_mattina.mp3"
+    },
+
+    {
+        "id": 89,
+        "prompt": "Voi {input} (suggerire) un cambio di programma.",
+        "answer": "suggerite",
+        "translation": "You all suggest a change of plans.",
+        "audio": "89_Voi_suggerite_un_cambio_di_programma.mp3"
+    },
+    {
+        "id": 90,
+        "prompt": "Loro {input} (costruire) un grattacielo.",
+        "answer": "costruiscono",
+        "translation": "They build a skyscraper.",
+        "audio": "90_Loro_costruiscono_un_grattacielo.mp3"
+    },
+    {
+        "id": 91,
+        "prompt": "Io {input} (pulire) il bagno ogni giorno.",
+        "answer": "pulisco",
+        "translation": "I clean the bathroom every day.",
+        "audio": "91_Io_pulisco_il_bagno_ogni_giorno.mp3"
+    },
+    {
+        "id": 92,
+        "prompt": "Tu {input} (seguire) il film con attenzione?",
+        "answer": "segui",
+        "translation": "Do you follow the movie carefully?",
+        "audio": "92_Tu_segui_il_film_con_attenzione.mp3"
+    },
+    {
+        "id": 93,
+        "prompt": "Lei {input} (spedire) una lettera d'amore.",
+        "answer": "spedisce",
+        "translation": "She sends a love letter.",
+        "audio": "93_Lei_spedisce_una_lettera_d_amore.mp3"
+    },
+    {
+        "id": 94,
+        "prompt": "Noi {input} (aprire) il regalo con curiosità.",
+        "answer": "apriamo",
+        "translation": "We open the gift with curiosity.",
+        "audio": "94_Noi_apriamo_il_regalo_con_curiosita.mp3"
+    },
+    {
+        "id": 95,
+        "prompt": "Voi {input} (finire) di pranzare presto?",
+        "answer": "finite",
+        "translation": "Do you all finish lunch early?",
+        "audio": "95_Voi_finite_di_pranzare_presto.mp3"
+    },
+    {
+        "id": 96,
+        "prompt": "Loro {input} (preferire) il campeggio all'hotel.",
+        "answer": "preferiscono",
+        "translation": "They prefer camping to the hotel.",
+        "audio": "96_Loro_preferiscono_il_campeggio_all_hotel.mp3"
+    },
+    {
+        "id": 97,
+        "prompt": "Io {input} (sentire) il gusto del cioccolato.",
+        "answer": "sento",
+        "translation": "I taste the chocolate.",
+        "audio": "97_Io_sento_il_gusto_del_cioccolato.mp3"
+    },
+    {
+        "id": 98,
+        "prompt": "Tu {input} (dormire) sotto le stelle?",
+        "answer": "dormi",
+        "translation": "Do you sleep under the stars?",
+        "audio": "98_Tu_dormi_sotto_le_stelle.mp3"
+    },
+    {
+        "id": 99,
+        "prompt": "Lui {input} (offrire) una soluzione al problema.",
+        "answer": "offre",
+        "translation": "He offers a solution to the problem.",
+        "audio": "99_Lui_offre_una_soluzione_al_problema.mp3"
+    },
+    {
+        "id": 100,
+        "prompt": "Noi {input} (partire) per un'avventura.",
+        "answer": "partiamo",
+        "translation": "We leave for an adventure.",
+        "audio": "100_Noi_partiamo_per_un_avventura.mp3"
+    },
+    {
+        "id": 101,
+        "prompt": "Io {input} (condividere) il mio pranzo con te.",
+        "answer": "condivido",
+        "translation": "I share my lunch with you.",
+        "audio": "101_Io_condivido_il_mio_pranzo_con_te.mp3"
+    },
+    {
+        "id": 102,
+        "prompt": "Tu {input} (costruire) modelli di aerei.",
+        "answer": "costruisci",
+        "translation": "You build airplane models.",
+        "audio": "102_Tu_costruisci_modelli_di_aerei.mp3"
+    },
+    {
+        "id": 103,
+        "prompt": "Lui {input} (soffrire) di insonnia.",
+        "answer": "soffre",
+        "translation": "He suffers from insomnia.",
+        "audio": "103_Lui_soffre_di_insonnia.mp3"
+    },
+    {
+        "id": 104,
+        "prompt": "Noi {input} (definire) i dettagli del progetto.",
+        "answer": "definiamo",
+        "translation": "We define the project details.",
+        "audio": "104_Noi_definiamo_i_dettagli_del_progetto.mp3"
+    },
+    {
+        "id": 105,
+        "prompt": "Voi {input} (insegnare) ai bambini a leggere.",
+        "answer": "insegnate",
+        "translation": "You all teach the children to read.",
+        "audio": "105_Voi_insegnate_ai_bambini_a_leggere.mp3"
+    },
+    {
+        "id": 106,
+        "prompt": "Loro {input} (distribuire) i volantini.",
+        "answer": "distribuiscono",
+        "translation": "They distribute the flyers.",
+        "audio": "106_Loro_distribuiscono_i_volantini.mp3"
+    },
+    {
+        "id": 107,
+        "prompt": "Io {input} (unire) le forze con te.",
+        "answer": "unisco",
+        "translation": "I join forces with you.",
+        "audio": "107_Io_unisco_le_forze_con_te.mp3"
+    },
+    {
+        "id": 108,
+        "prompt": "Tu {input} (mentire) sempre!",
+        "answer": "menti",
+        "translation": "You always lie!",
+        "audio": "108_Tu_menti_sempre.mp3"
+    },
+    {
+        "id": 109,
+        "prompt": "Lei {input} (dirigere) l'orchestra.",
+        "answer": "dirige",
+        "translation": "She conducts the orchestra.",
+        "audio": "109_Lei_dirige_l_orchestra.mp3"
+    },
+    {
+        "id": 110,
+        "prompt": "Noi {input} (sostituire) le vecchie lampadine.",
+        "answer": "sostituiamo",
+        "translation": "We replace the old light bulbs.",
+        "audio": "110_Noi_sostituiamo_le_vecchie_lampadine.mp3"
+    },
+    {
+        "id": 111,
+        "prompt": "Voi {input} (istruire) i nuovi impiegati.",
+        "answer": "istruite",
+        "translation": "You all instruct the new employees.",
+        "audio": "111_Voi_istruite_i_nuovi_impiegati.mp3"
+    },
+    {
+        "id": 112,
+        "prompt": "Loro {input} (combattere) per i loro diritti.",
+        "answer": "combattono",
+        "translation": "They fight for their rights.",
+        "audio": "112_Loro_combattono_per_i_loro_diritti.mp3"
+    },
+    {
+        "id": 113,
+        "prompt": "Io {input} (reagire) alle notizie.",
+        "answer": "reagisco",
+        "translation": "I react to the news.",
+        "audio": "113_Io_reagisco_alle_notizie.mp3"
+    },
+    {
+        "id": 114,
+        "prompt": "Tu {input} (agire) in fretta.",
+        "answer": "agisci",
+        "translation": "You act quickly.",
+        "audio": "114_Tu_agisci_in_fretta.mp3"
+    },
+    {
+        "id": 115,
+        "prompt": "Lui {input} (inserire) i dati nel computer.",
+        "answer": "inserisce",
+        "translation": "He enters the data into the computer.",
+        "audio": "115_Lui_inserisce_i_dati_nel_computer.mp3"
+    },
+    {
+        "id": 116,
+        "prompt": "Noi {input} (pulire) la spiaggia ogni estate.",
+        "answer": "puliamo",
+        "translation": "We clean the beach every summer.",
+        "audio": "116_Noi_puliamo_la_spiaggia_ogni_estate.mp3"
+    },
+    {
+        "id": 117,
+        "prompt": "Voi {input} (iscriversi) al corso online.",
+        "answer": "iscrivetevi",
+        "translation": "You all enroll in the online course.",
+        "audio": "117_Voi_iscrivetevi_al_corso_online.mp3"
+    },
+    {
+        "id": 118,
+        "prompt": "Loro {input} (proibire) l'accesso.",
+        "answer": "proibiscono",
+        "translation": "They prohibit access.",
+        "audio": "118_Loro_proibiscono_l_accesso.mp3"
+    },
+    {
+        "id": 119,
+        "prompt": "Io {input} (investire) nel mercato azionario.",
+        "answer": "investo",
+        "translation": "I invest in the stock market.",
+        "audio": "119_Io_investo_nel_mercato_azionario.mp3"
+    },
+    {
+        "id": 120,
+        "prompt": "Tu {input} (guarire) presto.",
+        "answer": "guarirai",
+        "translation": "You will recover soon.",
+        "audio": "120_Tu_guarirai_presto.mp3"
+    },
+    {
+        "id": 121,
+        "prompt": "Lei {input} (suggerire) una soluzione alternativa.",
+        "answer": "suggerisce",
+        "translation": "She suggests an alternative solution.",
+        "audio": "121_Lei_suggerisce_una_soluzione_alternativa.mp3"
+    },
+    {
+        "id": 122,
+        "prompt": "Noi {input} (costruire) una nuova biblioteca.",
+        "answer": "costruiamo",
+        "translation": "We build a new library.",
+        "audio": "122_Noi_costruiamo_una_nuova_biblioteca.mp3"
+    },
+    {
+        "id": 123,
+        "prompt": "Voi {input} (arricchire) il testo con esempi.",
+        "answer": "arricchite",
+        "translation": "You all enrich the text with examples.",
+        "audio": "123_Voi_arricchite_il_testo_con_esempi.mp3"
+    },
+    {
+        "id": 124,
+        "prompt": "Loro {input} (tradire) la fiducia.",
+        "answer": "tradiscono",
+        "translation": "They betray the trust.",
+        "audio": "124_Loro_tradiscono_la_fiducia.mp3"
+    },
+    {
+        "id": 125,
+        "prompt": "Io {input} (esaminare) i risultati.",
+        "answer": "esamino",
+        "translation": "I examine the results.",
+        "audio": "125_Io_esamino_i_risultati.mp3"
+    },
+    {
+        "id": 126,
+        "prompt": "Tu {input} (combattere) per la giustizia.",
+        "answer": "combatti",
+        "translation": "You fight for justice.",
+        "audio": "126_Tu_combatti_per_la_giustizia.mp3"
+    },
+    {
+        "id": 127,
+        "prompt": "Lui {input} (uccidere) il tempo leggendo.",
+        "answer": "uccide",
+        "translation": "He kills time reading.",
+        "audio": "127_Lui_uccide_il_tempo_leggendo.mp3"
+    },
+    {
+        "id": 128,
+        "prompt": "Noi {input} (partire) per una nuova avventura.",
+        "answer": "partiamo",
+        "translation": "We leave for a new adventure.",
+        "audio": "128_Noi_partiamo_per_una_nuova_avventura.mp3"
+    },
+    {
+        "id": 129,
+        "prompt": "Voi {input} (rifinire) il lavoro con precisione.",
+        "answer": "rifinite",
+        "translation": "You all finish the work with precision.",
+        "audio": "129_Voi_rifinite_il_lavoro_con_precisione.mp3"
+    },
+    {
+        "id": 130,
+        "prompt": "Loro {input} (fornire) assistenza tecnica.",
+        "answer": "forniscono",
+        "translation": "They provide technical assistance.",
+        "audio": "130_Loro_forniscono_assistenza_tecnica.mp3"
+    },
+    {
+        "id": 131,
+        "prompt": "Io {input} (prevenire) i problemi.",
+        "answer": "prevengo",
+        "translation": "I prevent problems.",
+        "audio": "131_Io_prevengo_i_problemi.mp3"
+    },
+    {
+        "id": 132,
+        "prompt": "Tu {input} (impedire) agli altri di entrare.",
+        "answer": "impedisci",
+        "translation": "You prevent others from entering.",
+        "audio": "132_Tu_impedisci_agli_altri_di_entrare.mp3"
+    },
+
+    {
+        "id": 133,
+        "prompt": "Lei {input} (decorare) la sua stanza.",
+        "answer": "decora",
+        "translation": "She decorates her room.",
+        "audio": "133_Lei_decora_la_sua_stanza.mp3"
+    },
+    {
+        "id": 134,
+        "prompt": "Noi {input} (fare) shopping insieme.",
+        "answer": "facciamo",
+        "translation": "We go shopping together.",
+        "audio": "134_Noi_facciamo_shopping_insieme.mp3"
+    },
+    {
+        "id": 135,
+        "prompt": "Voi {input} (rifiutare) l'invito?",
+        "answer": "rifiutate",
+        "translation": "Do you all refuse the invitation?",
+        "audio": "135_Voi_rifiutate_l_invito.mp3"
+    },
+    {
+        "id": 136,
+        "prompt": "Loro {input} (reagire) agli stimoli.",
+        "answer": "reagiscono",
+        "translation": "They react to stimuli.",
+        "audio": "136_Loro_reagiscono_agli_stimoli.mp3"
+    },
+    {
+        "id": 137,
+        "prompt": "Io {input} (dormire) profondamente.",
+        "answer": "dormo",
+        "translation": "I sleep deeply.",
+        "audio": "137_Io_dormo_profondamente.mp3"
+    },
+    {
+        "id": 138,
+        "prompt": "Tu {input} (ricevere) molte lettere.",
+        "answer": "ricevi",
+        "translation": "You receive many letters.",
+        "audio": "138_Tu_ricevi_molte_lettere.mp3"
+    },
+    {
+        "id": 139,
+        "prompt": "Lui {input} (pulire) il suo ufficio.",
+        "answer": "pulisce",
+        "translation": "He cleans his office.",
+        "audio": "139_Lui_pulisce_il_suo_ufficio.mp3"
+    },
+    {
+        "id": 140,
+        "prompt": "Noi {input} (condividere) le nostre idee.",
+        "answer": "condividiamo",
+        "translation": "We share our ideas.",
+        "audio": "140_Noi_condividiamo_le_nostre_idee.mp3"
+    },
+    {
+        "id": 141,
+        "prompt": "Voi {input} (tradurre) il documento.",
+        "answer": "traducete",
+        "translation": "You all translate the document.",
+        "audio": "141_Voi_traducete_il_documento.mp3"
+    },
+    {
+        "id": 142,
+        "prompt": "Loro {input} (ripulire) il parco.",
+        "answer": "ripuliscono",
+        "translation": "They clean up the park.",
+        "audio": "142_Loro_ripuliscono_il_parco.mp3"
+    },
+    {
+        "id": 143,
+        "prompt": "Io {input} (finire) di scrivere il rapporto.",
+        "answer": "finisco",
+        "translation": "I finish writing the report.",
+        "audio": "143_Io_finisco_di_scrivere_il_rapporto.mp3"
+    },
+    {
+        "id": 144,
+        "prompt": "Tu {input} (pulire) la tua stanza?",
+        "answer": "pulisci",
+        "translation": "Do you clean your room?",
+        "audio": "144_Tu_pulisci_la_tua_stanza.mp3"
+    },
+    {
+        "id": 145,
+        "prompt": "Lei {input} (dirigere) una grande azienda.",
+        "answer": "dirige",
+        "translation": "She runs a big company.",
+        "audio": "145_Lei_dirige_una_grande_azienda.mp3"
+    },
+    {
+        "id": 146,
+        "prompt": "Noi {input} (partire) per il viaggio.",
+        "answer": "partiamo",
+        "translation": "We leave for the trip.",
+        "audio": "146_Noi_partiamo_per_il_viaggio.mp3"
+    },
+    {
+        "id": 147,
+        "prompt": "Voi {input} (scrivere) una lettera al direttore.",
+        "answer": "scrivete",
+        "translation": "You all write a letter to the director.",
+        "audio": "147_Voi_scrivete_una_lettera_al_direttore.mp3"
+    },
+    {
+        "id": 148,
+        "prompt": "Loro {input} (offrire) il loro aiuto.",
+        "answer": "offrono",
+        "translation": "They offer their help.",
+        "audio": "148_Loro_offrono_il_loro_aiuto.mp3"
+    },
+    {
+        "id": 149,
+        "prompt": "Io {input} (aprire) il cancello.",
+        "answer": "apro",
+        "translation": "I open the gate.",
+        "audio": "149_Io_apro_il_cancello.mp3"
+    },
+    {
+        "id": 150,
+        "prompt": "Tu {input} (costruire) modellini di auto.",
+        "answer": "costruisci",
+        "translation": "You build model cars.",
+        "audio": "150_Tu_costruisci_modellini_di_auto.mp3"
+    },
+    {
+        "id": 151,
+        "prompt": "Lui {input} (seguire) una dieta rigorosa.",
+        "answer": "segue",
+        "translation": "He follows a strict diet.",
+        "audio": "151_Lui_segue_una_dieta_rigorosa.mp3"
+    },
+    {
+        "id": 152,
+        "prompt": "Noi {input} (finire) presto il lavoro.",
+        "answer": "finiamo",
+        "translation": "We finish the work early.",
+        "audio": "152_Noi_finiamo_presto_il_lavoro.mp3"
+    },
+    {
+        "id": 153,
+        "prompt": "Voi {input} (pulire) il tavolo?",
+        "answer": "pulite",
+        "translation": "Do you all clean the table?",
+        "audio": "153_Voi_pulite_il_tavolo.mp3"
+    },
+    {
+        "id": 154,
+        "prompt": "Loro {input} (aprire) il negozio alle nove.",
+        "answer": "aprono",
+        "translation": "They open the shop at nine.",
+        "audio": "154_Loro_aprono_il_negozio_alle_nove.mp3"
+    },
+    {
+        "id": 155,
+        "prompt": "Io {input} (unire) i puntini.",
+        "answer": "unisco",
+        "translation": "I connect the dots.",
+        "audio": "155_Io_unisco_i_puntini.mp3"
+    },
+    {
+        "id": 156,
+        "prompt": "Tu {input} (preferire) il tè verde.",
+        "answer": "preferisci",
+        "translation": "You prefer green tea.",
+        "audio": "156_Tu_preferisci_il_te_verde.mp3"
+    },
+    {
+        "id": 157,
+        "prompt": "Lei {input} (spedire) i documenti via email.",
+        "answer": "spedisce",
+        "translation": "She sends the documents via email.",
+        "audio": "157_Lei_spedisce_i_documenti_via_email.mp3"
+    },
+    {
+        "id": 158,
+        "prompt": "Noi {input} (soffrire) il caldo estivo.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the summer heat.",
+        "audio": "158_Noi_soffriamo_il_caldo_estivo.mp3"
+    },
+    {
+        "id": 159,
+        "prompt": "Voi {input} (suggerire) un ristorante.",
+        "answer": "suggerite",
+        "translation": "You all suggest a restaurant.",
+        "audio": "159_Voi_suggerite_un_ristorante.mp3"
+    },
+    {
+        "id": 160,
+        "prompt": "Loro {input} (seguire) le ultime tendenze.",
+        "answer": "seguono",
+        "translation": "They follow the latest trends.",
+        "audio": "160_Loro_seguono_le_ultime_tendenze.mp3"
+    },
+    {
+        "id": 161,
+        "prompt": "Io {input} (dormire) sul divano.",
+        "answer": "dormo",
+        "translation": "I sleep on the couch.",
+        "audio": "161_Io_dormo_sul_divano.mp3"
+    },
+    {
+        "id": 162,
+        "prompt": "Tu {input} (aprire) la scatola.",
+        "answer": "apri",
+        "translation": "You open the box.",
+        "audio": "162_Tu_apri_la_scatola.mp3"
+    },
+    {
+        "id": 163,
+        "prompt": "Lui {input} (finire) il libro in un giorno.",
+        "answer": "finisce",
+        "translation": "He finishes the book in a day.",
+        "audio": "163_Lui_finisce_il_libro_in_un_giorno.mp3"
+    },
+    {
+        "id": 164,
+        "prompt": "Noi {input} (pulire) il garage.",
+        "answer": "puliamo",
+        "translation": "We clean the garage.",
+        "audio": "164_Noi_puliamo_il_garage.mp3"
+    },
+    {
+        "id": 165,
+        "prompt": "Voi {input} (spedire) la cartolina.",
+        "answer": "spedite",
+        "translation": "You all send the postcard.",
+        "audio": "165_Voi_spedite_la_cartolina.mp3"
+    },
+    {
+        "id": 166,
+        "prompt": "Loro {input} (suggerire) di andare al parco.",
+        "answer": "suggeriscono",
+        "translation": "They suggest going to the park.",
+        "audio": "166_Loro_suggeriscono_di_andare_al_parco.mp3"
+    },
+    {
+        "id": 167,
+        "prompt": "Io {input} (aprire) una nuova bottiglia di vino.",
+        "answer": "apro",
+        "translation": "I open a new bottle of wine.",
+        "audio": "167_Io_apro_una_nuova_bottiglia_di_vino.mp3"
+    },
+    {
+        "id": 168,
+        "prompt": "Tu {input} (costruire) un puzzle.",
+        "answer": "costruisci",
+        "translation": "You build a puzzle.",
+        "audio": "168_Tu_costruisci_un_puzzle.mp3"
+    },
+    {
+        "id": 169,
+        "prompt": "Lei {input} (seguire) un corso di yoga.",
+        "answer": "segue",
+        "translation": "She follows a yoga course.",
+        "audio": "169_Lei_segue_un_corso_di_yoga.mp3"
+    },
+    {
+        "id": 170,
+        "prompt": "Noi {input} (finire) di cenare.",
+        "answer": "finiamo",
+        "translation": "We finish dinner.",
+        "audio": "170_Noi_finiamo_di_cenare.mp3"
+    },
+    {
+        "id": 171,
+        "prompt": "Voi {input} (pulire) le finestre?",
+        "answer": "pulite",
+        "translation": "Do you all clean the windows?",
+        "audio": "171_Voi_pulite_le_finestre.mp3"
+    },
+    {
+        "id": 172,
+        "prompt": "Loro {input} (aprire) il cancello automatico.",
+        "answer": "aprono",
+        "translation": "They open the automatic gate.",
+        "audio": "172_Loro_aprono_il_cancello_automatico.mp3"
+    },
+    {
+        "id": 173,
+        "prompt": "Io {input} (unire) le parti del puzzle.",
+        "answer": "unisco",
+        "translation": "I put together the parts of the puzzle.",
+        "audio": "173_Io_unisco_le_parti_del_puzzle.mp3"
+    },
+    {
+        "id": 174,
+        "prompt": "Tu {input} (preferire) la montagna.",
+        "answer": "preferisci",
+        "translation": "You prefer the mountain.",
+        "audio": "174_Tu_preferisci_la_montagna.mp3"
+    },
+    {
+        "id": 175,
+        "prompt": "Lei {input} (spedire) un regalo.",
+        "answer": "spedisce",
+        "translation": "She sends a gift.",
+        "audio": "175_Lei_spedisce_un_regalo.mp3"
+    },
+    {
+        "id": 176,
+        "prompt": "Noi {input} (soffrire) il freddo in inverno.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the cold in winter.",
+        "audio": "176_Noi_soffriamo_il_freddo_in_inverno.mp3"
+    },
+
+    {
+        "id": 177,
+        "prompt": "Voi {input} (suggerire) un altro film.",
+        "answer": "suggerite",
+        "translation": "You all suggest another movie.",
+        "audio": "177_Voi_suggerite_un_altro_film.mp3"
+    },
+    {
+        "id": 178,
+        "prompt": "Loro {input} (seguire) la moda.",
+        "answer": "seguono",
+        "translation": "They follow fashion.",
+        "audio": "178_Loro_seguono_la_moda.mp3"
+    },
+    {
+        "id": 179,
+        "prompt": "Io {input} (dormire) fino a tardi.",
+        "answer": "dormo",
+        "translation": "I sleep until late.",
+        "audio": "179_Io_dormo_fino_a_tardi.mp3"
+    },
+    {
+        "id": 180,
+        "prompt": "Tu {input} (aprire) la porta della macchina.",
+        "answer": "apri",
+        "translation": "You open the car door.",
+        "audio": "180_Tu_apri_la_porta_della_macchina.mp3"
+    },
+    {
+        "id": 181,
+        "prompt": "Lui {input} (finire) il compito prima di cena.",
+        "answer": "finisce",
+        "translation": "He finishes the task before dinner.",
+        "audio": "181_Lui_finisce_il_compito_prima_di_cena.mp3"
+    },
+    {
+        "id": 182,
+        "prompt": "Noi {input} (pulire) il salotto.",
+        "answer": "puliamo",
+        "translation": "We clean the living room.",
+        "audio": "182_Noi_puliamo_il_salotto.mp3"
+    },
+    {
+        "id": 183,
+        "prompt": "Voi {input} (spedire) una lettera.",
+        "answer": "spedite",
+        "translation": "You all send a letter.",
+        "audio": "183_Voi_spedite_una_lettera.mp3"
+    },
+    {
+        "id": 184,
+        "prompt": "Loro {input} (suggerire) di cambiare programma.",
+        "answer": "suggeriscono",
+        "translation": "They suggest changing the plan.",
+        "audio": "184_Loro_suggeriscono_di_cambiare_programma.mp3"
+    },
+    {
+        "id": 185,
+        "prompt": "Io {input} (aprire) la bottiglia d'acqua.",
+        "answer": "apro",
+        "translation": "I open the water bottle.",
+        "audio": "185_Io_apro_la_bottiglia_d_acqua.mp3"
+    },
+    {
+        "id": 186,
+        "prompt": "Tu {input} (costruire) un robot.",
+        "answer": "costruisci",
+        "translation": "You build a robot.",
+        "audio": "186_Tu_costruisci_un_robot.mp3"
+    },
+    {
+        "id": 187,
+        "prompt": "Lei {input} (seguire) una terapia.",
+        "answer": "segue",
+        "translation": "She follows a therapy.",
+        "audio": "187_Lei_segue_una_terapia.mp3"
+    },
+    {
+        "id": 188,
+        "prompt": "Noi {input} (finire) il lavoro alle sei.",
+        "answer": "finiamo",
+        "translation": "We finish the work at six.",
+        "audio": "188_Noi_finiamo_il_lavoro_alle_sei.mp3"
+    },
+    {
+        "id": 189,
+        "prompt": "Voi {input} (pulire) la piscina.",
+        "answer": "pulite",
+        "translation": "You all clean the pool.",
+        "audio": "189_Voi_pulite_la_piscina.mp3"
+    },
+    {
+        "id": 190,
+        "prompt": "Loro {input} (aprire) la scatola dei giochi.",
+        "answer": "aprono",
+        "translation": "They open the toy box.",
+        "audio": "190_Loro_aprono_la_scatola_dei_giochi.mp3"
+    },
+    {
+        "id": 191,
+        "prompt": "Io {input} (unire) le idee.",
+        "answer": "unisco",
+        "translation": "I combine the ideas.",
+        "audio": "191_Io_unisco_le_idee.mp3"
+    },
+    {
+        "id": 192,
+        "prompt": "Tu {input} (preferire) il caffè.",
+        "answer": "preferisci",
+        "translation": "You prefer coffee.",
+        "audio": "192_Tu_preferisci_il_caffe.mp3"
+    },
+    {
+        "id": 193,
+        "prompt": "Lei {input} (spedire) un pacchetto.",
+        "answer": "spedisce",
+        "translation": "She sends a package.",
+        "audio": "193_Lei_spedisce_un_pacchetto.mp3"
+    },
+    {
+        "id": 194,
+        "prompt": "Noi {input} (soffrire) di stress.",
+        "answer": "soffriamo",
+        "translation": "We suffer from stress.",
+        "audio": "194_Noi_soffriamo_di_stress.mp3"
+    },
+    {
+        "id": 195,
+        "prompt": "Voi {input} (suggerire) un'idea.",
+        "answer": "suggerite",
+        "translation": "You all suggest an idea.",
+        "audio": "195_Voi_suggerite_un_idea.mp3"
+    },
+    {
+        "id": 196,
+        "prompt": "Loro {input} (seguire) la dieta.",
+        "answer": "seguono",
+        "translation": "They follow the diet.",
+        "audio": "196_Loro_seguono_la_dieta.mp3"
+    },
+    {
+        "id": 197,
+        "prompt": "Io {input} (dormire) in una tenda.",
+        "answer": "dormo",
+        "translation": "I sleep in a tent.",
+        "audio": "197_Io_dormo_in_una_tenda.mp3"
+    },
+    {
+        "id": 198,
+        "prompt": "Tu {input} (aprire) il frigo.",
+        "answer": "apri",
+        "translation": "You open the fridge.",
+        "audio": "198_Tu_apri_il_frigo.mp3"
+    },
+    {
+        "id": 199,
+        "prompt": "Lui {input} (finire) la sua tesi.",
+        "answer": "finisce",
+        "translation": "He finishes his thesis.",
+        "audio": "199_Lui_finisce_la_sua_tesi.mp3"
+    },
+    {
+        "id": 200,
+        "prompt": "Noi {input} (pulire) il cortile.",
+        "answer": "puliamo",
+        "translation": "We clean the yard.",
+        "audio": "200_Noi_puliamo_il_cortile.mp3"
+    },
+    {
+        "id": 201,
+        "prompt": "Io {input} (aprire) una nuova attività.",
+        "answer": "apro",
+        "translation": "I open a new business.",
+        "audio": "201_Io_apro_una_nuova_attivita.mp3"
+    },
+    {
+        "id": 202,
+        "prompt": "Tu {input} (finire) sempre i tuoi compiti in tempo.",
+        "answer": "finisci",
+        "translation": "You always finish your homework on time.",
+        "audio": "202_Tu_finisci_sempre_i_tuoi_compiti_in_tempo.mp3"
+    },
+    {
+        "id": 203,
+        "prompt": "Lui {input} (pulire) la sua bicicletta ogni settimana.",
+        "answer": "pulisce",
+        "translation": "He cleans his bike every week.",
+        "audio": "203_Lui_pulisce_la_sua_bicicletta_ogni_settimana.mp3"
+    },
+    {
+        "id": 204,
+        "prompt": "Noi {input} (seguire) un corso di cucina.",
+        "answer": "seguiamo",
+        "translation": "We follow a cooking course.",
+        "audio": "204_Noi_seguiamo_un_corso_di_cucina.mp3"
+    },
+    {
+        "id": 205,
+        "prompt": "Voi {input} (spedire) i documenti importanti.",
+        "answer": "spedite",
+        "translation": "You all send the important documents.",
+        "audio": "205_Voi_spedite_i_documenti_importanti.mp3"
+    },
+    {
+        "id": 206,
+        "prompt": "Loro {input} (preferire) la musica classica.",
+        "answer": "preferiscono",
+        "translation": "They prefer classical music.",
+        "audio": "206_Loro_preferiscono_la_musica_classica.mp3"
+    },
+    {
+        "id": 207,
+        "prompt": "Io {input} (unire) tutte le parti del progetto.",
+        "answer": "unisco",
+        "translation": "I join all the parts of the project.",
+        "audio": "207_Io_unisco_tutte_le_parti_del_progetto.mp3"
+    },
+    {
+        "id": 208,
+        "prompt": "Tu {input} (costruire) modelli di navi.",
+        "answer": "costruisci",
+        "translation": "You build ship models.",
+        "audio": "208_Tu_costruisci_modelli_di_navi.mp3"
+    },
+    {
+        "id": 209,
+        "prompt": "Lei {input} (soffrire) di mal di schiena.",
+        "answer": "soffre",
+        "translation": "She suffers from back pain.",
+        "audio": "209_Lei_soffre_di_mal_di_schiena.mp3"
+    },
+    {
+        "id": 210,
+        "prompt": "Noi {input} (finire) il nostro lavoro presto.",
+        "answer": "finiamo",
+        "translation": "We finish our work early.",
+        "audio": "210_Noi_finiamo_il_nostro_lavoro_presto.mp3"
+    },
+    {
+        "id": 211,
+        "prompt": "Voi {input} (aprire) la finestra per aria fresca.",
+        "answer": "aprite",
+        "translation": "You all open the window for fresh air.",
+        "audio": "211_Voi_aprite_la_finestra_per_aria_fresca.mp3"
+    },
+    {
+        "id": 212,
+        "prompt": "Loro {input} (suggerire) di fare una pausa.",
+        "answer": "suggeriscono",
+        "translation": "They suggest taking a break.",
+        "audio": "212_Loro_suggeriscono_di_fare_una_pausa.mp3"
+    },
+    {
+        "id": 213,
+        "prompt": "Io {input} (pulire) i vetri ogni mese.",
+        "answer": "pulisco",
+        "translation": "I clean the windows every month.",
+        "audio": "213_Io_pulisco_i_vetri_ogni_mese.mp3"
+    },
+    {
+        "id": 214,
+        "prompt": "Tu {input} (seguire) le notizie ogni giorno.",
+        "answer": "segui",
+        "translation": "You follow the news every day.",
+        "audio": "214_Tu_segni_le_notizie_ogni_giorno.mp3"
+    },
+    {
+        "id": 215,
+        "prompt": "Lui {input} (finire) il suo turno di notte.",
+        "answer": "finisce",
+        "translation": "He finishes his night shift.",
+        "audio": "215_Lui_finisce_il_suo_turno_di_notte.mp3"
+    },
+    {
+        "id": 216,
+        "prompt": "Noi {input} (aprire) un nuovo negozio di libri.",
+        "answer": "apriamo",
+        "translation": "We open a new bookshop.",
+        "audio": "216_Noi_apriamo_un_nuovo_negozio_di_libri.mp3"
+    },
+    {
+        "id": 217,
+        "prompt": "Voi {input} (preferire) il silenzio.",
+        "answer": "preferite",
+        "translation": "You all prefer silence.",
+        "audio": "217_Voi_preferite_il_silenzio.mp3"
+    },
+    {
+        "id": 218,
+        "prompt": "Loro {input} (unire) le forze per il progetto.",
+        "answer": "uniscono",
+        "translation": "They join forces for the project.",
+        "audio": "218_Loro_uniscono_le_forze_per_il_progetto.mp3"
+    },
+    {
+        "id": 219,
+        "prompt": "Io {input} (soffrire) di ansia.",
+        "answer": "soffro",
+        "translation": "I suffer from anxiety.",
+        "audio": "219_Io_soffro_di_ansia.mp3"
+    },
+    {
+        "id": 220,
+        "prompt": "Tu {input} (costruire) un nuovo sistema di irrigazione.",
+        "answer": "costruisci",
+        "translation": "You build a new irrigation system.",
+        "audio": "220_Tu_costruisci_un_nuovo_sistema_di_irrigazione.mp3"
+    },
+
+    {
+        "id": 221,
+        "prompt": "Lei {input} (finire) di leggere il libro.",
+        "answer": "finisce",
+        "translation": "She finishes reading the book.",
+        "audio": "221_Lei_finisce_di_leggere_il_libro.mp3"
+    },
+    {
+        "id": 222,
+        "prompt": "Noi {input} (aprire) una nuova strada.",
+        "answer": "apriamo",
+        "translation": "We open a new road.",
+        "audio": "222_Noi_apriamo_una_nuova_strada.mp3"
+    },
+    {
+        "id": 223,
+        "prompt": "Voi {input} (pulire) la cucina ogni giorno.",
+        "answer": "pulite",
+        "translation": "You all clean the kitchen every day.",
+        "audio": "223_Voi_pulite_la_cucina_ogni_giorno.mp3"
+    },
+    {
+        "id": 224,
+        "prompt": "Loro {input} (seguire) un regime alimentare.",
+        "answer": "seguono",
+        "translation": "They follow a diet.",
+        "audio": "224_Loro_seguono_un_regime_alimentare.mp3"
+    },
+    {
+        "id": 225,
+        "prompt": "Io {input} (preferire) il sole alla pioggia.",
+        "answer": "preferisco",
+        "translation": "I prefer the sun to the rain.",
+        "audio": "225_Io_preferisco_il_sole_alla_pioggia.mp3"
+    },
+    {
+        "id": 226,
+        "prompt": "Tu {input} (unire) le due parti.",
+        "answer": "unisci",
+        "translation": "You join the two parts.",
+        "audio": "226_Tu_unisci_le_due_parti.mp3"
+    },
+    {
+        "id": 227,
+        "prompt": "Lui {input} (soffrire) di mal di testa.",
+        "answer": "soffre",
+        "translation": "He suffers from a headache.",
+        "audio": "227_Lui_soffre_di_mal_di_testa.mp3"
+    },
+    {
+        "id": 228,
+        "prompt": "Noi {input} (finire) il nostro incontro.",
+        "answer": "finiamo",
+        "translation": "We finish our meeting.",
+        "audio": "228_Noi_finiamo_il_nostro_incontro.mp3"
+    },
+    {
+        "id": 229,
+        "prompt": "Voi {input} (aprire) una bottiglia di champagne.",
+        "answer": "aprite",
+        "translation": "You all open a bottle of champagne.",
+        "audio": "229_Voi_aprite_una_bottiglia_di_champagne.mp3"
+    },
+    {
+        "id": 230,
+        "prompt": "Loro {input} (pulire) la casa insieme.",
+        "answer": "puliscono",
+        "translation": "They clean the house together.",
+        "audio": "230_Loro_puliscono_la_casa_insieme.mp3"
+    },
+    {
+        "id": 231,
+        "prompt": "Io {input} (seguire) un corso di fotografia.",
+        "answer": "seguo",
+        "translation": "I take a photography course.",
+        "audio": "231_Io_seguo_un_corso_di_fotografia.mp3"
+    },
+    {
+        "id": 232,
+        "prompt": "Tu {input} (preferire) il mare alla montagna.",
+        "answer": "preferisci",
+        "translation": "You prefer the sea to the mountains.",
+        "audio": "232_Tu_preferisci_il_mare_alla_montagna.mp3"
+    },
+    {
+        "id": 233,
+        "prompt": "Lei {input} (unire) le squadre.",
+        "answer": "unisce",
+        "translation": "She unites the teams.",
+        "audio": "233_Lei_unisce_le_squadre.mp3"
+    },
+    {
+        "id": 234,
+        "prompt": "Noi {input} (soffrire) il freddo.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the cold.",
+        "audio": "234_Noi_soffriamo_il_freddo.mp3"
+    },
+    {
+        "id": 235,
+        "prompt": "Voi {input} (costruire) una torre di legno.",
+        "answer": "costruite",
+        "translation": "You all build a wooden tower.",
+        "audio": "235_Voi_costruite_una_torre_di_legno.mp3"
+    },
+    {
+        "id": 236,
+        "prompt": "Loro {input} (finire) il lavoro in tempo.",
+        "answer": "finiscono",
+        "translation": "They finish the work on time.",
+        "audio": "236_Loro_finiscono_il_lavoro_in_tempo.mp3"
+    },
+    {
+        "id": 237,
+        "prompt": "Io {input} (aprire) una nuova impresa.",
+        "answer": "apro",
+        "translation": "I start a new business.",
+        "audio": "237_Io_apro_una_nuova_impresa.mp3"
+    },
+    {
+        "id": 238,
+        "prompt": "Tu {input} (pulire) la tua macchina.",
+        "answer": "pulisci",
+        "translation": "You clean your car.",
+        "audio": "238_Tu_pulisci_la_tua_macchina.mp3"
+    },
+    {
+        "id": 239,
+        "prompt": "Lui {input} (seguire) una dieta vegana.",
+        "answer": "segue",
+        "translation": "He follows a vegan diet.",
+        "audio": "239_Lui_segue_una_dieta_vegana.mp3"
+    },
+    {
+        "id": 240,
+        "prompt": "Noi {input} (preferire) le vacanze estive.",
+        "answer": "preferiamo",
+        "translation": "We prefer summer holidays.",
+        "audio": "240_Noi_preferiamo_le_vacanze_estive.mp3"
+    },
+    {
+        "id": 241,
+        "prompt": "Voi {input} (unire) i documenti in un file.",
+        "answer": "unite",
+        "translation": "You all combine the documents into one file.",
+        "audio": "241_Voi_unite_i_documenti_in_un_file.mp3"
+    },
+    {
+        "id": 242,
+        "prompt": "Loro {input} (soffrire) per la perdita.",
+        "answer": "soffrono",
+        "translation": "They suffer from the loss.",
+        "audio": "242_Loro_soffrono_per_la_perdita.mp3"
+    },
+    {
+        "id": 243,
+        "prompt": "Io {input} (finire) di scrivere l'email.",
+        "answer": "finisco",
+        "translation": "I finish writing the email.",
+        "audio": "243_Io_finisco_di_scrivere_l_email.mp3"
+    },
+    {
+        "id": 244,
+        "prompt": "Tu {input} (aprire) il regalo con entusiasmo.",
+        "answer": "apri",
+        "translation": "You open the gift with enthusiasm.",
+        "audio": "244_Tu_apri_il_regalo_con_entusiasmo.mp3"
+    },
+    {
+        "id": 245,
+        "prompt": "Lei {input} (pulire) la sua stanza ogni giorno.",
+        "answer": "pulisce",
+        "translation": "She cleans her room every day.",
+        "audio": "245_Lei_pulisce_la_sua_stanza_ogni_giorno.mp3"
+    },
+    {
+        "id": 246,
+        "prompt": "Noi {input} (seguire) un percorso diverso.",
+        "answer": "seguiamo",
+        "translation": "We follow a different path.",
+        "audio": "246_Noi_seguiamo_un_percorso_diverso.mp3"
+    },
+    {
+        "id": 247,
+        "prompt": "Voi {input} (preferire) il caffè forte.",
+        "answer": "preferite",
+        "translation": "You all prefer strong coffee.",
+        "audio": "247_Voi_preferite_il_caffe_forte.mp3"
+    },
+    {
+        "id": 248,
+        "prompt": "Loro {input} (unire) i pezzi del puzzle.",
+        "answer": "uniscono",
+        "translation": "They join the pieces of the puzzle.",
+        "audio": "248_Loro_uniscono_i_pezzi_del_puzzle.mp3"
+    },
+    {
+        "id": 249,
+        "prompt": "Io {input} (soffrire) di insonnia.",
+        "answer": "soffro",
+        "translation": "I suffer from insomnia.",
+        "audio": "249_Io_soffro_di_insonnia.mp3"
+    },
+    {
+        "id": 250,
+        "prompt": "Tu {input} (costruire) un modello di treno.",
+        "answer": "costruisci",
+        "translation": "You build a model train.",
+        "audio": "250_Tu_costruisci_un_modello_di_treno.mp3"
+    },
+    {
+        "id": 251,
+        "prompt": "Lui {input} (finire) sempre il lavoro in anticipo.",
+        "answer": "finisce",
+        "translation": "He always finishes work early.",
+        "audio": "251_Lui_finisce_sempre_il_lavoro_in_anticipo.mp3"
+    },
+    {
+        "id": 252,
+        "prompt": "Noi {input} (aprire) la porta del giardino.",
+        "answer": "apriamo",
+        "translation": "We open the garden door.",
+        "audio": "252_Noi_apriamo_la_porta_del_giardino.mp3"
+    },
+    {
+        "id": 253,
+        "prompt": "Voi {input} (pulire) il frigorifero.",
+        "answer": "pulite",
+        "translation": "You all clean the refrigerator.",
+        "audio": "253_Voi_pulite_il_frigorifero.mp3"
+    },
+    {
+        "id": 254,
+        "prompt": "Loro {input} (seguire) il programma televisivo.",
+        "answer": "seguono",
+        "translation": "They follow the TV show.",
+        "audio": "254_Loro_seguono_il_programma_televisivo.mp3"
+    },
+    {
+        "id": 255,
+        "prompt": "Io {input} (preferire) la pizza alla pasta.",
+        "answer": "preferisco",
+        "translation": "I prefer pizza to pasta.",
+        "audio": "255_Io_preferisco_la_pizza_alla_pasta.mp3"
+    },
+    {
+        "id": 256,
+        "prompt": "Tu {input} (unire) le tue forze.",
+        "answer": "unisci",
+        "translation": "You combine your forces.",
+        "audio": "256_Tu_unisci_le_tue_forze.mp3"
+    },
+    {
+        "id": 257,
+        "prompt": "Lei {input} (soffrire) di allergie stagionali.",
+        "answer": "soffre",
+        "translation": "She suffers from seasonal allergies.",
+        "audio": "257_Lei_soffre_di_allergie_stagionali.mp3"
+    },
+    {
+        "id": 258,
+        "prompt": "Noi {input} (finire) la riunione presto.",
+        "answer": "finiamo",
+        "translation": "We finish the meeting early.",
+        "audio": "258_Noi_finiamo_la_riunione_presto.mp3"
+    },
+    {
+        "id": 259,
+        "prompt": "Voi {input} (aprire) una nuova sede.",
+        "answer": "aprite",
+        "translation": "You all open a new office.",
+        "audio": "259_Voi_aprite_una_nuova_sede.mp3"
+    },
+    {
+        "id": 260,
+        "prompt": "Loro {input} (pulire) il parco comunale.",
+        "answer": "puliscono",
+        "translation": "They clean the community park.",
+        "audio": "260_Loro_puliscono_il_parco_comunale.mp3"
+    },
+    {
+        "id": 261,
+        "prompt": "Io {input} (seguire) il consiglio del medico.",
+        "answer": "seguo",
+        "translation": "I follow the doctor's advice.",
+        "audio": "261_Io_seguo_il_consiglio_del_medico.mp3"
+    },
+    {
+        "id": 262,
+        "prompt": "Tu {input} (preferire) le giornate soleggiate.",
+        "answer": "preferisci",
+        "translation": "You prefer sunny days.",
+        "audio": "262_Tu_preferisci_le_giornate_soleggiate.mp3"
+    },
+    {
+        "id": 263,
+        "prompt": "Lei {input} (unire) le due metà.",
+        "answer": "unisce",
+        "translation": "She joins the two halves.",
+        "audio": "263_Lei_unisce_le_due_meta.mp3"
+    },
+    {
+        "id": 264,
+        "prompt": "Noi {input} (soffrire) l'afa estiva.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the summer heat.",
+        "audio": "264_Noi_soffriamo_l_afa_estiva.mp3"
+    },
+
+    {
+        "id": 265,
+        "prompt": "Voi {input} (costruire) una nuova veranda.",
+        "answer": "costruite",
+        "translation": "You all build a new veranda.",
+        "audio": "265_Voi_costruite_una_nuova_veranda.mp3"
+    },
+    {
+        "id": 266,
+        "prompt": "Loro {input} (finire) la partita in pareggio.",
+        "answer": "finiscono",
+        "translation": "They finish the match in a draw.",
+        "audio": "266_Loro_finiscono_la_partita_in_pareggio.mp3"
+    },
+    {
+        "id": 267,
+        "prompt": "Io {input} (aprire) una pagina web.",
+        "answer": "apro",
+        "translation": "I open a web page.",
+        "audio": "267_Io_apro_una_pagina_web.mp3"
+    },
+    {
+        "id": 268,
+        "prompt": "Tu {input} (pulire) il pavimento ogni sera.",
+        "answer": "pulisci",
+        "translation": "You clean the floor every evening.",
+        "audio": "268_Tu_pulisci_il_pavimento_ogni_sera.mp3"
+    },
+    {
+        "id": 269,
+        "prompt": "Lui {input} (seguire) un corso di yoga.",
+        "answer": "segue",
+        "translation": "He takes a yoga class.",
+        "audio": "269_Lui_segue_un_corso_di_yoga.mp3"
+    },
+    {
+        "id": 270,
+        "prompt": "Noi {input} (preferire) il gelato alla torta.",
+        "answer": "preferiamo",
+        "translation": "We prefer ice cream to cake.",
+        "audio": "270_Noi_preferiamo_il_gelato_alla_torta.mp3"
+    },
+    {
+        "id": 271,
+        "prompt": "Voi {input} (unire) le risorse.",
+        "answer": "unite",
+        "translation": "You all combine resources.",
+        "audio": "271_Voi_unite_le_risorse.mp3"
+    },
+    {
+        "id": 272,
+        "prompt": "Loro {input} (soffrire) di vertigini.",
+        "answer": "soffrono",
+        "translation": "They suffer from vertigo.",
+        "audio": "272_Loro_soffrono_di_vertigini.mp3"
+    },
+    {
+        "id": 273,
+        "prompt": "Io {input} (finire) il mio libro preferito.",
+        "answer": "finisco",
+        "translation": "I finish my favorite book.",
+        "audio": "273_Io_finisco_il_mio_libro_preferito.mp3"
+    },
+    {
+        "id": 274,
+        "prompt": "Tu {input} (aprire) il cancello automatico.",
+        "answer": "apri",
+        "translation": "You open the automatic gate.",
+        "audio": "274_Tu_apri_il_cancello_automatico.mp3"
+    },
+    {
+        "id": 275,
+        "prompt": "Lei {input} (pulire) la piscina.",
+        "answer": "pulisce",
+        "translation": "She cleans the pool.",
+        "audio": "275_Lei_pulisce_la_piscina.mp3"
+    },
+    {
+        "id": 276,
+        "prompt": "Noi {input} (seguire) la lezione attentamente.",
+        "answer": "seguiamo",
+        "translation": "We follow the lesson attentively.",
+        "audio": "276_Noi_segniamo_la_lezione_attentamente.mp3"
+    },
+    {
+        "id": 277,
+        "prompt": "Voi {input} (preferire) il tè caldo.",
+        "answer": "preferite",
+        "translation": "You all prefer hot tea.",
+        "audio": "277_Voi_preferite_il_te_caldo.mp3"
+    },
+    {
+        "id": 278,
+        "prompt": "Loro {input} (unire) gli sforzi per la causa.",
+        "answer": "uniscono",
+        "translation": "They unite their efforts for the cause.",
+        "audio": "278_Loro_uniscono_gli_sforzi_per_la_causa.mp3"
+    },
+    {
+        "id": 279,
+        "prompt": "Io {input} (soffrire) di stress.",
+        "answer": "soffro",
+        "translation": "I suffer from stress.",
+        "audio": "279_Io_soffro_di_stress.mp3"
+    },
+    {
+        "id": 280,
+        "prompt": "Tu {input} (costruire) una casetta per gli uccelli.",
+        "answer": "costruisci",
+        "translation": "You build a birdhouse.",
+        "audio": "280_Tu_costruisci_una_casetta_per_gli_uccelli.mp3"
+    },
+    {
+        "id": 281,
+        "prompt": "Lui {input} (finire) il puzzle in un'ora.",
+        "answer": "finisce",
+        "translation": "He finishes the puzzle in an hour.",
+        "audio": "281_Lui_finisce_il_puzzle_in_un_ora.mp3"
+    },
+    {
+        "id": 282,
+        "prompt": "Noi {input} (aprire) un conto bancario.",
+        "answer": "apriamo",
+        "translation": "We open a bank account.",
+        "audio": "282_Noi_apriamo_un_conto_bancario.mp3"
+    },
+    {
+        "id": 283,
+        "prompt": "Voi {input} (pulire) il giardino.",
+        "answer": "pulite",
+        "translation": "You all clean the garden.",
+        "audio": "283_Voi_pulite_il_giardino.mp3"
+    },
+    {
+        "id": 284,
+        "prompt": "Loro {input} (seguire) le regole.",
+        "answer": "seguono",
+        "translation": "They follow the rules.",
+        "audio": "284_Loro_seguono_le_regole.mp3"
+    },
+    {
+        "id": 285,
+        "prompt": "Io {input} (preferire) il vino rosso.",
+        "answer": "preferisco",
+        "translation": "I prefer red wine.",
+        "audio": "285_Io_preferisco_il_vino_rosso.mp3"
+    },
+    {
+        "id": 286,
+        "prompt": "Tu {input} (unire) i pezzi mancanti.",
+        "answer": "unisci",
+        "translation": "You join the missing pieces.",
+        "audio": "286_Tu_unisci_i_pezzi_mancanti.mp3"
+    },
+    {
+        "id": 287,
+        "prompt": "Lei {input} (soffrire) di emicrania.",
+        "answer": "soffre",
+        "translation": "She suffers from migraine.",
+        "audio": "287_Lei_soffre_di_emicrania.mp3"
+    },
+    {
+        "id": 288,
+        "prompt": "Noi {input} (finire) il progetto domani.",
+        "answer": "finiamo",
+        "translation": "We finish the project tomorrow.",
+        "audio": "288_Noi_finiamo_il_progetto_domani.mp3"
+    },
+    {
+        "id": 289,
+        "prompt": "Voi {input} (aprire) il portone del garage.",
+        "answer": "aprite",
+        "translation": "You all open the garage door.",
+        "audio": "289_Voi_aprite_il_portone_del_garage.mp3"
+    },
+    {
+        "id": 290,
+        "prompt": "Loro {input} (pulire) le scarpe.",
+        "answer": "puliscono",
+        "translation": "They clean the shoes.",
+        "audio": "290_Loro_puliscono_le_scarpe.mp3"
+    },
+    {
+        "id": 291,
+        "prompt": "Io {input} (seguire) la mappa.",
+        "answer": "seguo",
+        "translation": "I follow the map.",
+        "audio": "291_Io_seguo_la_mappa.mp3"
+    },
+    {
+        "id": 292,
+        "prompt": "Tu {input} (preferire) il cinema al teatro.",
+        "answer": "preferisci",
+        "translation": "You prefer the cinema to the theater.",
+        "audio": "292_Tu_preferisci_il_cinema_al_teatro.mp3"
+    },
+    {
+        "id": 293,
+        "prompt": "Lei {input} (unire) le idee.",
+        "answer": "unisce",
+        "translation": "She combines the ideas.",
+        "audio": "293_Lei_unisce_le_idee.mp3"
+    },
+    {
+        "id": 294,
+        "prompt": "Noi {input} (soffrire) l'umidità.",
+        "answer": "soffriamo",
+        "translation": "We suffer from humidity.",
+        "audio": "294_Noi_soffriamo_l_umidita.mp3"
+    },
+    {
+        "id": 295,
+        "prompt": "Voi {input} (costruire) un ponte.",
+        "answer": "costruite",
+        "translation": "You all build a bridge.",
+        "audio": "295_Voi_costruite_un_ponte.mp3"
+    },
+    {
+        "id": 296,
+        "prompt": "Loro {input} (finire) il disegno.",
+        "answer": "finiscono",
+        "translation": "They finish the drawing.",
+        "audio": "296_Loro_finiscono_il_disegno.mp3"
+    },
+    {
+        "id": 297,
+        "prompt": "Io {input} (aprire) un libro nuovo.",
+        "answer": "apro",
+        "translation": "I open a new book.",
+        "audio": "297_Io_apro_un_libro_nuovo.mp3"
+    },
+    {
+        "id": 298,
+        "prompt": "Tu {input} (pulire) il lavandino.",
+        "answer": "pulisci",
+        "translation": "You clean the sink.",
+        "audio": "298_Tu_pulisci_il_lavandino.mp3"
+    },
+    {
+        "id": 299,
+        "prompt": "Lui {input} (seguire) il sentiero.",
+        "answer": "segue",
+        "translation": "He follows the path.",
+        "audio": "299_Lui_segue_il_sentiero.mp3"
+    },
+    {
+        "id": 300,
+        "prompt": "Noi {input} (preferire) il latte di mandorla.",
+        "answer": "preferiamo",
+        "translation": "We prefer almond milk.",
+        "audio": "300_Noi_preferiamo_il_latte_di_mandorla.mp3"
+    },
+    {
+        "id": 301,
+        "prompt": "Io {input} (assorbire) tutte le informazioni.",
+        "answer": "assorbo",
+        "translation": "I absorb all the information.",
+        "audio": "301_Io_assorbo_tutte_le_informazioni.mp3"
+    },
+    {
+        "id": 302,
+        "prompt": "Tu {input} (comprendere) bene la situazione.",
+        "answer": "comprendi",
+        "translation": "You understand the situation well.",
+        "audio": "302_Tu_comprendi_bene_la_situazione.mp3"
+    },
+    {
+        "id": 303,
+        "prompt": "Lei {input} (descrivere) il paesaggio in dettaglio.",
+        "answer": "descrive",
+        "translation": "She describes the landscape in detail.",
+        "audio": "303_Lei_descrive_il_paesaggio_in_dettaglio.mp3"
+    },
+    {
+        "id": 304,
+        "prompt": "Noi {input} (ingoiare) la medicina amara.",
+        "answer": "ingoiamo",
+        "translation": "We swallow the bitter medicine.",
+        "audio": "304_Noi_ingoiamo_la_medicina_amara.mp3"
+    },
+    {
+        "id": 305,
+        "prompt": "Voi {input} (coprire) il tavolo con una tovaglia.",
+        "answer": "coprite",
+        "translation": "You all cover the table with a tablecloth.",
+        "audio": "305_Voi_coprite_il_tavolo_con_una_tovaglia.mp3"
+    },
+    {
+        "id": 306,
+        "prompt": "Loro {input} (ripartire) il cibo equamente.",
+        "answer": "ripartiscono",
+        "translation": "They divide the food equally.",
+        "audio": "306_Loro_ripartiscono_il_cibo_equamente.mp3"
+    },
+    {
+        "id": 307,
+        "prompt": "Io {input} (spedire) pacchi ogni giorno.",
+        "answer": "spedisco",
+        "translation": "I ship packages every day.",
+        "audio": "307_Io_spedisco_pacchi_ogni_giorno.mp3"
+    },
+    {
+        "id": 308,
+        "prompt": "Tu {input} (soffocare) la tua rabbia.",
+        "answer": "soffochi",
+        "translation": "You stifle your anger.",
+        "audio": "308_Tu_soffochi_la_tua_rabbia.mp3"
+    },
+
+    {
+        "id": 309,
+        "prompt": "Lui {input} (respirare) profondamente prima dell'esame.",
+        "answer": "respira",
+        "translation": "He breathes deeply before the exam.",
+        "audio": "309_Lui_respira_profondamente_prima_dell_esame.mp3"
+    },
+    {
+        "id": 310,
+        "prompt": "Noi {input} (scoprire) nuovi talenti.",
+        "answer": "scopriamo",
+        "translation": "We discover new talents.",
+        "audio": "310_Noi_scopriamo_nuovi_talenti.mp3"
+    },
+    {
+        "id": 311,
+        "prompt": "Voi {input} (avvertire) i vostri amici del pericolo.",
+        "answer": "avvertite",
+        "translation": "You all warn your friends about the danger.",
+        "audio": "311_Voi_avvertite_i_vostri_amici_del_pericolo.mp3"
+    },
+    {
+        "id": 312,
+        "prompt": "Loro {input} (ferire) i sentimenti degli altri.",
+        "answer": "feriscono",
+        "translation": "They hurt others' feelings.",
+        "audio": "312_Loro_feriscono_i_sentimenti_degli_altri.mp3"
+    },
+    {
+        "id": 313,
+        "prompt": "Io {input} (ammettere) i miei errori.",
+        "answer": "ammetto",
+        "translation": "I admit my mistakes.",
+        "audio": "313_Io_ammetto_i_miei_errori.mp3"
+    },
+    {
+        "id": 314,
+        "prompt": "Tu {input} (digerire) bene i pasti pesanti.",
+        "answer": "digerisci",
+        "translation": "You digest heavy meals well.",
+        "audio": "314_Tu_digerisci_bene_i_pasti_pesanti.mp3"
+    },
+    {
+        "id": 315,
+        "prompt": "Lei {input} (condurre) l'esperimento.",
+        "answer": "conduce",
+        "translation": "She conducts the experiment.",
+        "audio": "315_Lei_conduce_l_esperimento.mp3"
+    },
+    {
+        "id": 316,
+        "prompt": "Noi {input} (convergere) verso una soluzione comune.",
+        "answer": "convergiamo",
+        "translation": "We converge towards a common solution.",
+        "audio": "316_Noi_convergiamo_verso_una_soluzione_comune.mp3"
+    },
+    {
+        "id": 317,
+        "prompt": "Voi {input} (progredire) velocemente nei vostri studi.",
+        "answer": "progredite",
+        "translation": "You all progress quickly in your studies.",
+        "audio": "317_Voi_progredite_velocemente_nei_vostri_studi.mp3"
+    },
+    {
+        "id": 318,
+        "prompt": "Loro {input} (intervenire) durante la discussione.",
+        "answer": "intervengono",
+        "translation": "They intervene during the discussion.",
+        "audio": "318_Loro_intervengono_durante_la_discussione.mp3"
+    },
+    {
+        "id": 319,
+        "prompt": "Io {input} (correggere) gli errori nel testo.",
+        "answer": "correggo",
+        "translation": "I correct the errors in the text.",
+        "audio": "319_Io_correggo_gli_errori_nel_testo.mp3"
+    },
+    {
+        "id": 320,
+        "prompt": "Tu {input} (decidere) di cambiare lavoro.",
+        "answer": "decidi",
+        "translation": "You decide to change jobs.",
+        "audio": "320_Tu_decidi_di_cambiare_lavoro.mp3"
+    },
+    {
+        "id": 321,
+        "prompt": "Lui {input} (includere) tutti nei suoi piani.",
+        "answer": "include",
+        "translation": "He includes everyone in his plans.",
+        "audio": "321_Lui_include_tutti_nei_suoi_piani.mp3"
+    },
+    {
+        "id": 322,
+        "prompt": "Noi {input} (trasmettere) il messaggio.",
+        "answer": "trasmettiamo",
+        "translation": "We transmit the message.",
+        "audio": "322_Noi_trasmettiamo_il_messaggio.mp3"
+    },
+    {
+        "id": 323,
+        "prompt": "Voi {input} (inserire) i dati nel sistema.",
+        "answer": "inserite",
+        "translation": "You all enter the data into the system.",
+        "audio": "323_Voi_inserite_i_dati_nel_sistema.mp3"
+    },
+    {
+        "id": 324,
+        "prompt": "Loro {input} (resistere) alle tentazioni.",
+        "answer": "resistono",
+        "translation": "They resist temptations.",
+        "audio": "324_Loro_resistono_alle_tentazioni.mp3"
+    },
+    {
+        "id": 325,
+        "prompt": "Io {input} (avvertire) un cambiamento.",
+        "answer": "avverto",
+        "translation": "I sense a change.",
+        "audio": "325_Io_avverto_un_cambiamento.mp3"
+    },
+    {
+        "id": 326,
+        "prompt": "Tu {input} (comprendere) il significato nascosto.",
+        "answer": "comprendi",
+        "translation": "You understand the hidden meaning.",
+        "audio": "326_Tu_comprendi_il_significato_nascosto.mp3"
+    },
+    {
+        "id": 327,
+        "prompt": "Lei {input} (vestirsi) elegantemente.",
+        "answer": "si veste",
+        "translation": "She dresses elegantly.",
+        "audio": "327_Lei_si_veste_elegantemente.mp3"
+    },
+    {
+        "id": 328,
+        "prompt": "Noi {input} (discutere) le questioni importanti.",
+        "answer": "discutiamo",
+        "translation": "We discuss important issues.",
+        "audio": "328_Noi_discutiamo_le_questioni_importanti.mp3"
+    },
+    {
+        "id": 329,
+        "prompt": "Voi {input} (salire) le scale.",
+        "answer": "salite",
+        "translation": "You all climb the stairs.",
+        "audio": "329_Voi_salite_le_scale.mp3"
+    },
+    {
+        "id": 330,
+        "prompt": "Loro {input} (distribuire) i regali.",
+        "answer": "distribuiscono",
+        "translation": "They distribute the gifts.",
+        "audio": "330_Loro_distribuiscono_i_regali.mp3"
+    },
+    {
+        "id": 331,
+        "prompt": "Io {input} (esplorare) nuove idee.",
+        "answer": "esploro",
+        "translation": "I explore new ideas.",
+        "audio": "331_Io_esploro_nuove_idee.mp3"
+    },
+    {
+        "id": 332,
+        "prompt": "Tu {input} (promuovere) il tuo libro.",
+        "answer": "promuovi",
+        "translation": "You promote your book.",
+        "audio": "332_Tu_promuovi_il_tuo_libro.mp3"
+    },
+    {
+        "id": 333,
+        "prompt": "Lui {input} (ritornare) a casa tardi.",
+        "answer": "ritorna",
+        "translation": "He returns home late.",
+        "audio": "333_Lui_ritorna_a_casa_tardi.mp3"
+    },
+    {
+        "id": 334,
+        "prompt": "Noi {input} (restare) in silenzio.",
+        "answer": "restiamo",
+        "translation": "We remain silent.",
+        "audio": "334_Noi_restiamo_in_silenzio.mp3"
+    },
+    {
+        "id": 335,
+        "prompt": "Voi {input} (sostenere) la causa.",
+        "answer": "sostenete",
+        "translation": "You all support the cause.",
+        "audio": "335_Voi_sostenete_la_causa.mp3"
+    },
+    {
+        "id": 336,
+        "prompt": "Loro {input} (insistere) sul loro punto di vista.",
+        "answer": "insistono",
+        "translation": "They insist on their point of view.",
+        "audio": "336_Loro_insistono_sul_loro_punto_di_vista.mp3"
+    },
+    {
+        "id": 337,
+        "prompt": "Io {input} (provvedere) ai miei bisogni.",
+        "answer": "provvedo",
+        "translation": "I provide for my needs.",
+        "audio": "337_Io_provvedo_ai_miei_bisogni.mp3"
+    },
+    {
+        "id": 338,
+        "prompt": "Tu {input} (sorvegliare) i bambini.",
+        "answer": "sorvegli",
+        "translation": "You watch the children.",
+        "audio": "338_Tu_sorvegli_i_bambini.mp3"
+    },
+    {
+        "id": 339,
+        "prompt": "Lei {input} (avvertire) un dolore al petto.",
+        "answer": "avverte",
+        "translation": "She feels a pain in her chest.",
+        "audio": "339_Lei_avverte_un_dolore_al_petto.mp3"
+    },
+    {
+        "id": 340,
+        "prompt": "Noi {input} (trascrivere) i dialoghi.",
+        "answer": "trascriviamo",
+        "translation": "We transcribe the dialogues.",
+        "audio": "340_Noi_trascriviamo_i_dialoghi.mp3"
+    },
+    {
+        "id": 341,
+        "prompt": "Voi {input} (proteggere) l'ambiente.",
+        "answer": "proteggete",
+        "translation": "You all protect the environment.",
+        "audio": "341_Voi_proteggete_l_ambiente.mp3"
+    },
+    {
+        "id": 342,
+        "prompt": "Loro {input} (riflettere) sulle decisioni.",
+        "answer": "riflettono",
+        "translation": "They reflect on the decisions.",
+        "audio": "342_Loro_riflettono_sulle_decisioni.mp3"
+    },
+    {
+        "id": 343,
+        "prompt": "Io {input} (offrire) il mio aiuto.",
+        "answer": "offro",
+        "translation": "I offer my help.",
+        "audio": "343_Io_offro_il_mio_aiuto.mp3"
+    },
+    {
+        "id": 344,
+        "prompt": "Tu {input} (suggerire) una nuova idea.",
+        "answer": "suggerisci",
+        "translation": "You suggest a new idea.",
+        "audio": "344_Tu_suggerisci_una_nuova_idea.mp3"
+    },
+    {
+        "id": 345,
+        "prompt": "Lui {input} (correggere) i compiti degli studenti.",
+        "answer": "corregge",
+        "translation": "He corrects the students' assignments.",
+        "audio": "345_Lui_corregge_i_compiti_degli_studenti.mp3"
+    },
+    {
+        "id": 346,
+        "prompt": "Noi {input} (descrivere) il panorama.",
+        "answer": "descriviamo",
+        "translation": "We describe the landscape.",
+        "audio": "346_Noi_descriviamo_il_panorama.mp3"
+    },
+    {
+        "id": 347,
+        "prompt": "Voi {input} (sostituire) le batterie scariche.",
+        "answer": "sostituite",
+        "translation": "You all replace the dead batteries.",
+        "audio": "347_Voi_sostituite_le_batterie_scariche.mp3"
+    },
+    {
+        "id": 348,
+        "prompt": "Loro {input} (persistere) nei loro sforzi.",
+        "answer": "persistono",
+        "translation": "They persist in their efforts.",
+        "audio": "348_Loro_persistono_nei_loro_sforzi.mp3"
+    },
+    {
+        "id": 349,
+        "prompt": "Io {input} (riparare) il motore dell'auto.",
+        "answer": "riparo",
+        "translation": "I repair the car engine.",
+        "audio": "349_Io_riparo_il_motore_dell_auto.mp3"
+    },
+    {
+        "id": 350,
+        "prompt": "Tu {input} (comprendere) il messaggio.",
+        "answer": "comprendi",
+        "translation": "You understand the message.",
+        "audio": "350_Tu_comprendi_il_messaggio.mp3"
+    },
+    {
+        "id": 351,
+        "prompt": "Lei {input} (vestirsi) di bianco.",
+        "answer": "si veste",
+        "translation": "She dresses in white.",
+        "audio": "351_Lei_si_veste_di_bianco.mp3"
+    },
+    {
+        "id": 352,
+        "prompt": "Noi {input} (discutere) di politica.",
+        "answer": "discutiamo",
+        "translation": "We discuss politics.",
+        "audio": "352_Noi_discutiamo_di_politica.mp3"
+    },
+
+    {
+        "id": 353,
+        "prompt": "Voi {input} (salire) sull'autobus.",
+        "answer": "salite",
+        "translation": "You all get on the bus.",
+        "audio": "353_Voi_salite_sull_autobus.mp3"
+    },
+    {
+        "id": 354,
+        "prompt": "Loro {input} (distribuire) i giornali.",
+        "answer": "distribuiscono",
+        "translation": "They distribute the newspapers.",
+        "audio": "354_Loro_distribuiscono_i_giornali.mp3"
+    },
+    {
+        "id": 355,
+        "prompt": "Io {input} (esplorare) il quartiere.",
+        "answer": "esploro",
+        "translation": "I explore the neighborhood.",
+        "audio": "355_Io_esploro_il_quartiere.mp3"
+    },
+    {
+        "id": 356,
+        "prompt": "Tu {input} (promuovere) la tua attività.",
+        "answer": "promuovi",
+        "translation": "You promote your business.",
+        "audio": "356_Tu_promuovi_la_tua_attivita.mp3"
+    },
+    {
+        "id": 357,
+        "prompt": "Lui {input} (ritornare) sempre puntuale.",
+        "answer": "ritorna",
+        "translation": "He always returns on time.",
+        "audio": "357_Lui_ritorna_sempre_puntuale.mp3"
+    },
+    {
+        "id": 358,
+        "prompt": "Noi {input} (restare) amici.",
+        "answer": "restiamo",
+        "translation": "We remain friends.",
+        "audio": "358_Noi_restiamo_amici.mp3"
+    },
+    {
+        "id": 359,
+        "prompt": "Voi {input} (sostenere) l'associazione benefica.",
+        "answer": "sostenete",
+        "translation": "You all support the charity.",
+        "audio": "359_Voi_sostenete_l_associazione_benefica.mp3"
+    },
+    {
+        "id": 360,
+        "prompt": "Loro {input} (insistere) sul pagamento anticipato.",
+        "answer": "insistono",
+        "translation": "They insist on advance payment.",
+        "audio": "360_Loro_insistono_sul_pagamento_anticipato.mp3"
+    },
+    {
+        "id": 361,
+        "prompt": "Io {input} (provvedere) alla manutenzione.",
+        "answer": "provvedo",
+        "translation": "I provide maintenance.",
+        "audio": "361_Io_provvedo_alla_manutenzione.mp3"
+    },
+    {
+        "id": 362,
+        "prompt": "Tu {input} (sorvegliare) la casa.",
+        "answer": "sorvegli",
+        "translation": "You watch the house.",
+        "audio": "362_Tu_sorvegli_la_casa.mp3"
+    },
+    {
+        "id": 363,
+        "prompt": "Lei {input} (avvertire) un rumore strano.",
+        "answer": "avverte",
+        "translation": "She hears a strange noise.",
+        "audio": "363_Lei_avverte_un_rumore_strano.mp3"
+    },
+    {
+        "id": 364,
+        "prompt": "Noi {input} (trascrivere) le note.",
+        "answer": "trascriviamo",
+        "translation": "We transcribe the notes.",
+        "audio": "364_Noi_trascriviamo_le_note.mp3"
+    },
+    {
+        "id": 365,
+        "prompt": "Voi {input} (proteggere) i vostri diritti.",
+        "answer": "proteggete",
+        "translation": "You all protect your rights.",
+        "audio": "365_Voi_proteggete_i_vostri_diritti.mp3"
+    },
+    {
+        "id": 366,
+        "prompt": "Loro {input} (riflettere) sui loro errori.",
+        "answer": "riflettono",
+        "translation": "They reflect on their mistakes.",
+        "audio": "366_Loro_riflettono_sui_loro_errori.mp3"
+    },
+    {
+        "id": 367,
+        "prompt": "Io {input} (offrire) un passaggio.",
+        "answer": "offro",
+        "translation": "I offer a ride.",
+        "audio": "367_Io_offro_un_passaggio.mp3"
+    },
+    {
+        "id": 368,
+        "prompt": "Tu {input} (suggerire) una soluzione alternativa.",
+        "answer": "suggerisci",
+        "translation": "You suggest an alternative solution.",
+        "audio": "368_Tu_suggerisci_una_soluzione_alternativa.mp3"
+    },
+    {
+        "id": 369,
+        "prompt": "Lui {input} (correggere) gli errori di battitura.",
+        "answer": "corregge",
+        "translation": "He corrects the typos.",
+        "audio": "369_Lui_corregge_gli_errori_di_battitura.mp3"
+    },
+    {
+        "id": 370,
+        "prompt": "Noi {input} (descrivere) l'esperienza.",
+        "answer": "descriviamo",
+        "translation": "We describe the experience.",
+        "audio": "370_Noi_descriviamo_l_esperienza.mp3"
+    },
+    {
+        "id": 371,
+        "prompt": "Voi {input} (sostituire) il vecchio computer.",
+        "answer": "sostituite",
+        "translation": "You all replace the old computer.",
+        "audio": "371_Voi_sostituite_il_vecchio_computer.mp3"
+    },
+    {
+        "id": 372,
+        "prompt": "Loro {input} (persistere) nei loro studi.",
+        "answer": "persistono",
+        "translation": "They persist in their studies.",
+        "audio": "372_Loro_persistono_nei_loro_studi.mp3"
+    },
+    {
+        "id": 373,
+        "prompt": "Io {input} (riparare) il rubinetto che perde.",
+        "answer": "riparo",
+        "translation": "I repair the leaking faucet.",
+        "audio": "373_Io_riparo_il_rubinetto_che_perde.mp3"
+    },
+    {
+        "id": 374,
+        "prompt": "Tu {input} (comprendere) le regole.",
+        "answer": "comprendi",
+        "translation": "You understand the rules.",
+        "audio": "374_Tu_comprendi_le_regole.mp3"
+    },
+    {
+        "id": 375,
+        "prompt": "Lei {input} (vestirsi) casualmente.",
+        "answer": "si veste",
+        "translation": "She dresses casually.",
+        "audio": "375_Lei_si_veste_casualmente.mp3"
+    },
+    {
+        "id": 376,
+        "prompt": "Noi {input} (discutere) di sport.",
+        "answer": "discutiamo",
+        "translation": "We discuss sports.",
+        "audio": "376_Noi_discutiamo_di_sport.mp3"
+    },
+    {
+        "id": 377,
+        "prompt": "Voi {input} (salire) sul treno.",
+        "answer": "salite",
+        "translation": "You all get on the train.",
+        "audio": "377_Voi_salite_sul_treno.mp3"
+    },
+    {
+        "id": 378,
+        "prompt": "Loro {input} (distribuire) i premi.",
+        "answer": "distribuiscono",
+        "translation": "They distribute the prizes.",
+        "audio": "378_Loro_distribuiscono_i_premi.mp3"
+    },
+    {
+        "id": 379,
+        "prompt": "Io {input} (esplorare) la città.",
+        "answer": "esploro",
+        "translation": "I explore the city.",
+        "audio": "379_Io_esploro_la_citta.mp3"
+    },
+    {
+        "id": 380,
+        "prompt": "Tu {input} (promuovere) un evento.",
+        "answer": "promuovi",
+        "translation": "You promote an event.",
+        "audio": "380_Tu_promuovi_un_evento.mp3"
+    },
+    {
+        "id": 381,
+        "prompt": "Lui {input} (ritornare) al lavoro.",
+        "answer": "ritorna",
+        "translation": "He returns to work.",
+        "audio": "381_Lui_ritorna_al_lavoro.mp3"
+    },
+    {
+        "id": 382,
+        "prompt": "Noi {input} (restare) a casa.",
+        "answer": "restiamo",
+        "translation": "We stay home.",
+        "audio": "382_Noi_restiamo_a_casa.mp3"
+    },
+    {
+        "id": 383,
+        "prompt": "Voi {input} (sostenere) un progetto.",
+        "answer": "sostenete",
+        "translation": "You all support a project.",
+        "audio": "383_Voi_sostenete_un_progetto.mp3"
+    },
+    {
+        "id": 384,
+        "prompt": "Loro {input} (insistere) sulla puntualità.",
+        "answer": "insistono",
+        "translation": "They insist on punctuality.",
+        "audio": "384_Loro_insistono_sulla_puntualita.mp3"
+    },
+    {
+        "id": 385,
+        "prompt": "Io {input} (provvedere) alla famiglia.",
+        "answer": "provvedo",
+        "translation": "I provide for the family.",
+        "audio": "385_Io_provvedo_alla_famiglia.mp3"
+    },
+    {
+        "id": 386,
+        "prompt": "Tu {input} (sorvegliare) la classe.",
+        "answer": "sorvegli",
+        "translation": "You watch the class.",
+        "audio": "386_Tu_sorvegli_la_classe.mp3"
+    },
+    {
+        "id": 387,
+        "prompt": "Lei {input} (avvertire) un cambiamento nell'aria.",
+        "answer": "avverte",
+        "translation": "She senses a change in the air.",
+        "audio": "387_Lei_avverte_un_cambiamento_nell_aria.mp3"
+    },
+    {
+        "id": 388,
+        "prompt": "Noi {input} (trascrivere) il discorso.",
+        "answer": "trascriviamo",
+        "translation": "We transcribe the speech.",
+        "audio": "388_Noi_trascriviamo_il_discorso.mp3"
+    },
+    {
+        "id": 389,
+        "prompt": "Voi {input} (proteggere) i vostri interessi.",
+        "answer": "proteggete",
+        "translation": "You all protect your interests.",
+        "audio": "389_Voi_proteggete_i_vostri_interessi.mp3"
+    },
+    {
+        "id": 390,
+        "prompt": "Loro {input} (riflettere) sui loro piani.",
+        "answer": "riflettono",
+        "translation": "They reflect on their plans.",
+        "audio": "390_Loro_riflettono_sui_loro_piani.mp3"
+    },
+    {
+        "id": 391,
+        "prompt": "Io {input} (offrire) un consiglio.",
+        "answer": "offro",
+        "translation": "I offer a piece of advice.",
+        "audio": "391_Io_offro_un_consiglio.mp3"
+    },
+    {
+        "id": 392,
+        "prompt": "Tu {input} (suggerire) di fare una pausa.",
+        "answer": "suggerisci",
+        "translation": "You suggest taking a break.",
+        "audio": "392_Tu_suggerisci_di_fare_una_pausa.mp3"
+    },
+    {
+        "id": 393,
+        "prompt": "Lui {input} (correggere) il testo.",
+        "answer": "corregge",
+        "translation": "He corrects the text.",
+        "audio": "393_Lui_corregge_il_testo.mp3"
+    },
+    {
+        "id": 394,
+        "prompt": "Noi {input} (descrivere) le nostre vacanze.",
+        "answer": "descriviamo",
+        "translation": "We describe our holidays.",
+        "audio": "394_Noi_descriviamo_le_nostre_vacanze.mp3"
+    },
+    {
+        "id": 395,
+        "prompt": "Voi {input} (sostituire) le vecchie lampadine.",
+        "answer": "sostituite",
+        "translation": "You all replace the old light bulbs.",
+        "audio": "395_Voi_sostituite_le_vecchie_lampadine.mp3"
+    },
+    {
+        "id": 396,
+        "prompt": "Loro {input} (persistere) nel raggiungere i loro obiettivi.",
+        "answer": "persistono",
+        "translation": "They persist in achieving their goals.",
+        "audio": "396_Loro_persistono_nel_raggiungere_i_loro_obiettivi.mp3"
+    },
+
+    {
+        "id": 397,
+        "prompt": "Io {input} (riparare) il computer.",
+        "answer": "riparo",
+        "translation": "I repair the computer.",
+        "audio": "397_Io_riparo_il_computer.mp3"
+    },
+    {
+        "id": 398,
+        "prompt": "Tu {input} (comprendere) il problema.",
+        "answer": "comprendi",
+        "translation": "You understand the problem.",
+        "audio": "398_Tu_comprendi_il_problema.mp3"
+    },
+    {
+        "id": 399,
+        "prompt": "Lei {input} (vestirsi) in modo elegante.",
+        "answer": "si veste",
+        "translation": "She dresses elegantly.",
+        "audio": "399_Lei_si_veste_in_modo_elegante.mp3"
+    },
+    {
+        "id": 400,
+        "prompt": "Noi {input} (discutere) di cinema.",
+        "answer": "discutiamo",
+        "translation": "We discuss cinema.",
+        "audio": "400_Noi_discutiamo_di_cinema.mp3"
+    },
+    {
+        "id": 401,
+        "prompt": "Io {input} (pulire) la mia scrivania.",
+        "answer": "pulisco",
+        "translation": "I clean my desk.",
+        "audio": "401_Io_pulisco_la_mia_scrivania.mp3"
+    },
+    {
+        "id": 402,
+        "prompt": "Tu {input} (aprire) la porta lentamente.",
+        "answer": "apri",
+        "translation": "You open the door slowly.",
+        "audio": "402_Tu_apri_la_porta_lentamente.mp3"
+    },
+    {
+        "id": 403,
+        "prompt": "Lui {input} (finire) sempre per primo.",
+        "answer": "finisce",
+        "translation": "He always finishes first.",
+        "audio": "403_Lui_finisce_sempre_per_primo.mp3"
+    },
+    {
+        "id": 404,
+        "prompt": "Noi {input} (seguire) il sentiero.",
+        "answer": "seguiamo",
+        "translation": "We follow the path.",
+        "audio": "404_Noi_seguiamo_il_sentiero.mp3"
+    },
+    {
+        "id": 405,
+        "prompt": "Voi {input} (preferire) il succo d'arancia.",
+        "answer": "preferite",
+        "translation": "You all prefer orange juice.",
+        "audio": "405_Voi_preferite_il_succo_d_arancia.mp3"
+    },
+    {
+        "id": 406,
+        "prompt": "Loro {input} (suggerire) di cambiare piano.",
+        "answer": "suggeriscono",
+        "translation": "They suggest changing the plan.",
+        "audio": "406_Loro_suggeriscono_di_cambiare_piano.mp3"
+    },
+    {
+        "id": 407,
+        "prompt": "Io {input} (unire) i fili.",
+        "answer": "unisco",
+        "translation": "I connect the wires.",
+        "audio": "407_Io_unisco_i_fili.mp3"
+    },
+    {
+        "id": 408,
+        "prompt": "Tu {input} (soffrire) di mal di stomaco.",
+        "answer": "soffri",
+        "translation": "You suffer from stomach ache.",
+        "audio": "408_Tu_soffri_di_mal_di_stomaco.mp3"
+    },
+    {
+        "id": 409,
+        "prompt": "Lei {input} (costruire) castelli di sabbia.",
+        "answer": "costruisce",
+        "translation": "She builds sandcastles.",
+        "audio": "409_Lei_costruisce_castelli_di_sabbia.mp3"
+    },
+    {
+        "id": 410,
+        "prompt": "Noi {input} (aprire) un conto.",
+        "answer": "apriamo",
+        "translation": "We open an account.",
+        "audio": "410_Noi_apriamo_un_conto.mp3"
+    },
+    {
+        "id": 411,
+        "prompt": "Voi {input} (pulire) il tavolo.",
+        "answer": "pulite",
+        "translation": "You all clean the table.",
+        "audio": "411_Voi_pulite_il_tavolo.mp3"
+    },
+    {
+        "id": 412,
+        "prompt": "Loro {input} (finire) il lavoro in tempo.",
+        "answer": "finiscono",
+        "translation": "They finish the work on time.",
+        "audio": "412_Loro_finiscono_il_lavoro_in_tempo.mp3"
+    },
+    {
+        "id": 413,
+        "prompt": "Io {input} (preferire) la cioccolata.",
+        "answer": "preferisco",
+        "translation": "I prefer chocolate.",
+        "audio": "413_Io_preferisco_la_cioccolata.mp3"
+    },
+    {
+        "id": 414,
+        "prompt": "Tu {input} (seguire) le istruzioni.",
+        "answer": "segui",
+        "translation": "You follow the instructions.",
+        "audio": "414_Tu_segui_le_istruzioni.mp3"
+    },
+    {
+        "id": 415,
+        "prompt": "Lui {input} (unire) i pezzi.",
+        "answer": "unisce",
+        "translation": "He joins the pieces.",
+        "audio": "415_Lui_unisce_i_pezzi.mp3"
+    },
+    {
+        "id": 416,
+        "prompt": "Noi {input} (soffrire) di freddo.",
+        "answer": "soffriamo",
+        "translation": "We suffer from cold.",
+        "audio": "416_Noi_soffriamo_di_freddo.mp3"
+    },
+    {
+        "id": 417,
+        "prompt": "Voi {input} (costruire) una casetta.",
+        "answer": "costruite",
+        "translation": "You all build a little house.",
+        "audio": "417_Voi_costruite_una_casetta.mp3"
+    },
+    {
+        "id": 418,
+        "prompt": "Loro {input} (aprire) il cancello.",
+        "answer": "aprono",
+        "translation": "They open the gate.",
+        "audio": "418_Loro_aprono_il_cancello.mp3"
+    },
+    {
+        "id": 419,
+        "prompt": "Io {input} (pulire) le scarpe.",
+        "answer": "pulisco",
+        "translation": "I clean the shoes.",
+        "audio": "419_Io_pulisco_le_scarpe.mp3"
+    },
+    {
+        "id": 420,
+        "prompt": "Tu {input} (finire) il compito.",
+        "answer": "finisci",
+        "translation": "You finish the task.",
+        "audio": "420_Tu_finisci_il_compito.mp3"
+    },
+    {
+        "id": 421,
+        "prompt": "Lei {input} (soffrire) di insonnia.",
+        "answer": "soffre",
+        "translation": "She suffers from insomnia.",
+        "audio": "421_Lei_soffre_di_insonnia.mp3"
+    },
+    {
+        "id": 422,
+        "prompt": "Noi {input} (aprire) il libro.",
+        "answer": "apriamo",
+        "translation": "We open the book.",
+        "audio": "422_Noi_apriamo_il_libro.mp3"
+    },
+    {
+        "id": 423,
+        "prompt": "Voi {input} (suggerire) una pausa.",
+        "answer": "suggerite",
+        "translation": "You all suggest a break.",
+        "audio": "423_Voi_suggerite_una_pausa.mp3"
+    },
+    {
+        "id": 424,
+        "prompt": "Loro {input} (costruire) una nave.",
+        "answer": "costruiscono",
+        "translation": "They build a ship.",
+        "audio": "424_Loro_costruiscono_una_nave.mp3"
+    },
+    {
+        "id": 425,
+        "prompt": "Io {input} (preferire) il tè.",
+        "answer": "preferisco",
+        "translation": "I prefer tea.",
+        "audio": "425_Io_preferisco_il_te.mp3"
+    },
+    {
+        "id": 426,
+        "prompt": "Tu {input} (unire) le forze.",
+        "answer": "unisci",
+        "translation": "You join forces.",
+        "audio": "426_Tu_unisci_le_forze.mp3"
+    },
+    {
+        "id": 427,
+        "prompt": "Lui {input} (soffrire) di ansia.",
+        "answer": "soffre",
+        "translation": "He suffers from anxiety.",
+        "audio": "427_Lui_soffre_di_ansia.mp3"
+    },
+    {
+        "id": 428,
+        "prompt": "Noi {input} (finire) il progetto.",
+        "answer": "finiamo",
+        "translation": "We finish the project.",
+        "audio": "428_Noi_finiamo_il_progetto.mp3"
+    },
+    {
+        "id": 429,
+        "prompt": "Voi {input} (pulire) le finestre.",
+        "answer": "pulite",
+        "translation": "You all clean the windows.",
+        "audio": "429_Voi_pulite_le_finestre.mp3"
+    },
+    {
+        "id": 430,
+        "prompt": "Loro {input} (aprire) le porte.",
+        "answer": "aprono",
+        "translation": "They open the doors.",
+        "audio": "430_Loro_aprono_le_porte.mp3"
+    },
+    {
+        "id": 431,
+        "prompt": "Io {input} (seguire) il consiglio.",
+        "answer": "seguo",
+        "translation": "I follow the advice.",
+        "audio": "431_Io_seguo_il_consiglio.mp3"
+    },
+    {
+        "id": 432,
+        "prompt": "Tu {input} (preferire) il latte.",
+        "answer": "preferisci",
+        "translation": "You prefer milk.",
+        "audio": "432_Tu_preferisci_il_latte.mp3"
+    },
+    {
+        "id": 433,
+        "prompt": "Lei {input} (unire) le idee.",
+        "answer": "unisce",
+        "translation": "She unites the ideas.",
+        "audio": "433_Lei_unisce_le_idee.mp3"
+    },
+    {
+        "id": 434,
+        "prompt": "Noi {input} (soffrire) l'afa.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the heat.",
+        "audio": "434_Noi_soffriamo_l_afa.mp3"
+    },
+    {
+        "id": 435,
+        "prompt": "Voi {input} (costruire) un ponte.",
+        "answer": "costruite",
+        "translation": "You all build a bridge.",
+        "audio": "435_Voi_costruite_un_ponte.mp3"
+    },
+    {
+        "id": 436,
+        "prompt": "Loro {input} (finire) la gara.",
+        "answer": "finiscono",
+        "translation": "They finish the race.",
+        "audio": "436_Loro_finiscono_la_gara.mp3"
+    },
+    {
+        "id": 437,
+        "prompt": "Io {input} (aprire) il barattolo.",
+        "answer": "apro",
+        "translation": "I open the jar.",
+        "audio": "437_Io_apro_il_barattolo.mp3"
+    },
+    {
+        "id": 438,
+        "prompt": "Tu {input} (pulire) il bagno.",
+        "answer": "pulisci",
+        "translation": "You clean the bathroom.",
+        "audio": "438_Tu_pulisci_il_bagno.mp3"
+    },
+    {
+        "id": 439,
+        "prompt": "Lui {input} (seguire) una dieta.",
+        "answer": "segue",
+        "translation": "He follows a diet.",
+        "audio": "439_Lui_segue_una_dieta.mp3"
+    },
+    {
+        "id": 440,
+        "prompt": "Noi {input} (preferire) il mare.",
+        "answer": "preferiamo",
+        "translation": "We prefer the sea.",
+        "audio": "440_Noi_preferiamo_il_mare.mp3"
+    },
+
+    {
+        "id": 441,
+        "prompt": "Voi {input} (unire) i gruppi.",
+        "answer": "unite",
+        "translation": "You all unite the groups.",
+        "audio": "441_Voi_unite_i_gruppi.mp3"
+    },
+    {
+        "id": 442,
+        "prompt": "Loro {input} (soffrire) di vertigini.",
+        "answer": "soffrono",
+        "translation": "They suffer from dizziness.",
+        "audio": "442_Loro_soffrono_di_vertigini.mp3"
+    },
+    {
+        "id": 443,
+        "prompt": "Io {input} (finire) il film.",
+        "answer": "finisco",
+        "translation": "I finish the film.",
+        "audio": "443_Io_finisco_il_film.mp3"
+    },
+    {
+        "id": 444,
+        "prompt": "Tu {input} (aprire) la scatola.",
+        "answer": "apri",
+        "translation": "You open the box.",
+        "audio": "444_Tu_apri_la_scatola.mp3"
+    },
+    {
+        "id": 445,
+        "prompt": "Lei {input} (pulire) i vetri.",
+        "answer": "pulisce",
+        "translation": "She cleans the windows.",
+        "audio": "445_Lei_pulisce_i_vetri.mp3"
+    },
+    {
+        "id": 446,
+        "prompt": "Noi {input} (seguire) un corso.",
+        "answer": "seguiamo",
+        "translation": "We follow a course.",
+        "audio": "446_Noi_seguiamo_un_corso.mp3"
+    },
+    {
+        "id": 447,
+        "prompt": "Voi {input} (suggerire) un viaggio.",
+        "answer": "suggerite",
+        "translation": "You all suggest a trip.",
+        "audio": "447_Voi_suggerite_un_viaggio.mp3"
+    },
+    {
+        "id": 448,
+        "prompt": "Loro {input} (costruire) un edificio.",
+        "answer": "costruiscono",
+        "translation": "They build a building.",
+        "audio": "448_Loro_costruiscono_un_edificio.mp3"
+    },
+    {
+        "id": 449,
+        "prompt": "Io {input} (preferire) la tranquillità.",
+        "answer": "preferisco",
+        "translation": "I prefer tranquility.",
+        "audio": "449_Io_preferisco_la_tranquillita.mp3"
+    },
+    {
+        "id": 450,
+        "prompt": "Tu {input} (unire) i documenti.",
+        "answer": "unisci",
+        "translation": "You unite the documents.",
+        "audio": "450_Tu_unisci_i_documenti.mp3"
+    },
+    {
+        "id": 451,
+        "prompt": "Lui {input} (soffrire) di solitudine.",
+        "answer": "soffre",
+        "translation": "He suffers from loneliness.",
+        "audio": "451_Lui_soffre_di_solitudine.mp3"
+    },
+    {
+        "id": 452,
+        "prompt": "Noi {input} (finire) la partita.",
+        "answer": "finiamo",
+        "translation": "We finish the match.",
+        "audio": "452_Noi_finiamo_la_partita.mp3"
+    },
+    {
+        "id": 453,
+        "prompt": "Voi {input} (pulire) il giardino.",
+        "answer": "pulite",
+        "translation": "You all clean the garden.",
+        "audio": "453_Voi_pulite_il_giardino.mp3"
+    },
+    {
+        "id": 454,
+        "prompt": "Loro {input} (aprire) il libro.",
+        "answer": "aprono",
+        "translation": "They open the book.",
+        "audio": "454_Loro_aprono_il_libro.mp3"
+    },
+    {
+        "id": 455,
+        "prompt": "Io {input} (seguire) la moda.",
+        "answer": "seguo",
+        "translation": "I follow fashion.",
+        "audio": "455_Io_seguo_la_moda.mp3"
+    },
+    {
+        "id": 456,
+        "prompt": "Tu {input} (preferire) la musica.",
+        "answer": "preferisci",
+        "translation": "You prefer music.",
+        "audio": "456_Tu_preferisci_la_musica.mp3"
+    },
+    {
+        "id": 457,
+        "prompt": "Lei {input} (unire) i punti.",
+        "answer": "unisce",
+        "translation": "She connects the dots.",
+        "audio": "457_Lei_unisce_i_punti.mp3"
+    },
+    {
+        "id": 458,
+        "prompt": "Noi {input} (soffrire) il caldo.",
+        "answer": "soffriamo",
+        "translation": "We suffer from the heat.",
+        "audio": "458_Noi_soffriamo_il_caldo.mp3"
+    },
+    {
+        "id": 459,
+        "prompt": "Voi {input} (costruire) una torre.",
+        "answer": "costruite",
+        "translation": "You all build a tower.",
+        "audio": "459_Voi_costruite_una_torre.mp3"
+    },
+    {
+        "id": 460,
+        "prompt": "Loro {input} (finire) di mangiare.",
+        "answer": "finiscono",
+        "translation": "They finish eating.",
+        "audio": "460_Loro_finiscono_di_mangiare.mp3"
+    },
+    {
+        "id": 461,
+        "prompt": "Io {input} (aprire) la bottiglia.",
+        "answer": "apro",
+        "translation": "I open the bottle.",
+        "audio": "461_Io_apro_la_bottiglia.mp3"
+    },
+    {
+        "id": 462,
+        "prompt": "Tu {input} (pulire) la cucina.",
+        "answer": "pulisci",
+        "translation": "You clean the kitchen.",
+        "audio": "462_Tu_pulisci_la_cucina.mp3"
+    },
+    {
+        "id": 463,
+        "prompt": "Lui {input} (seguire) il percorso.",
+        "answer": "segue",
+        "translation": "He follows the path.",
+        "audio": "463_Lui_segue_il_percorso.mp3"
+    },
+    {
+        "id": 464,
+        "prompt": "Noi {input} (preferire) il silenzio.",
+        "answer": "preferiamo",
+        "translation": "We prefer silence.",
+        "audio": "464_Noi_preferiamo_il_silenzio.mp3"
+    },
+    {
+        "id": 465,
+        "prompt": "Voi {input} (unire) i pezzi.",
+        "answer": "unite",
+        "translation": "You all unite the pieces.",
+        "audio": "465_Voi_unite_i_pezzi.mp3"
+    },
+    {
+        "id": 466,
+        "prompt": "Loro {input} (soffrire) di allergie.",
+        "answer": "soffrono",
+        "translation": "They suffer from allergies.",
+        "audio": "466_Loro_soffrono_di_allergie.mp3"
+    },
+    {
+        "id": 467,
+        "prompt": "Io {input} (finire) la lezione.",
+        "answer": "finisco",
+        "translation": "I finish the lesson.",
+        "audio": "467_Io_finisco_la_lezione.mp3"
+    },
+    {
+        "id": 468,
+        "prompt": "Tu {input} (aprire) il frigo.",
+        "answer": "apri",
+        "translation": "You open the fridge.",
+        "audio": "468_Tu_apri_il_frigo.mp3"
+    },
+    {
+        "id": 469,
+        "prompt": "Lei {input} (pulire) il forno.",
+        "answer": "pulisce",
+        "translation": "She cleans the oven.",
+        "audio": "469_Lei_pulisce_il_forno.mp3"
+    },
+    {
+        "id": 470,
+        "prompt": "Noi {input} (seguire) la guida.",
+        "answer": "seguiamo",
+        "translation": "We follow the guide.",
+        "audio": "470_Noi_seguiamo_la_guida.mp3"
+    },
+    {
+        "id": 471,
+        "prompt": "Voi {input} (suggerire) un cambiamento.",
+        "answer": "suggerite",
+        "translation": "You all suggest a change.",
+        "audio": "471_Voi_suggerite_un_cambiamento.mp3"
+    },
+    {
+        "id": 472,
+        "prompt": "Loro {input} (costruire) un robot.",
+        "answer": "costruiscono",
+        "translation": "They build a robot.",
+        "audio": "472_Loro_costruiscono_un_robot.mp3"
+    },
+    {
+        "id": 473,
+        "prompt": "Io {input} (preferire) il vino.",
+        "answer": "preferisco",
+        "translation": "I prefer wine.",
+        "audio": "473_Io_preferisco_il_vino.mp3"
+    },
+    {
+        "id": 474,
+        "prompt": "Tu {input} (unire) i nodi.",
+        "answer": "unisci",
+        "translation": "You tie the knots.",
+        "audio": "474_Tu_unisci_i_nodi.mp3"
+    },
+    {
+        "id": 475,
+        "prompt": "Lui {input} (soffrire) di febbre.",
+        "answer": "soffre",
+        "translation": "He suffers from fever.",
+        "audio": "475_Lui_soffre_di_febbre.mp3"
+    },
+    {
+        "id": 476,
+        "prompt": "Noi {input} (finire) il lavoro.",
+        "answer": "finiamo",
+        "translation": "We finish the work.",
+        "audio": "476_Noi_finiamo_il_lavoro.mp3"
+    },
+    {
+        "id": 477,
+        "prompt": "Voi {input} (pulire) la macchina.",
+        "answer": "pulite",
+        "translation": "You all clean the car.",
+        "audio": "477_Voi_pulite_la_macchina.mp3"
+    },
+    {
+        "id": 478,
+        "prompt": "Loro {input} (aprire) il cassetto.",
+        "answer": "aprono",
+        "translation": "They open the drawer.",
+        "audio": "478_Loro_aprono_il_cassetto.mp3"
+    },
+    {
+        "id": 479,
+        "prompt": "Io {input} (seguire) il dibattito.",
+        "answer": "seguo",
+        "translation": "I follow the debate.",
+        "audio": "479_Io_seguo_il_dibattito.mp3"
+    },
+    {
+        "id": 480,
+        "prompt": "Tu {input} (preferire) il gelato.",
+        "answer": "preferisci",
+        "translation": "You prefer ice cream.",
+        "audio": "480_Tu_preferisci_il_gelato.mp3"
+    },
+    {
+        "id": 481,
+        "prompt": "Lei {input} (unire) i gruppi.",
+        "answer": "unisce",
+        "translation": "She unites the groups.",
+        "audio": "481_Lei_unisce_i_gruppi.mp3"
+    },
+    {
+        "id": 482,
+        "prompt": "Noi {input} (soffrire) di nostalgia.",
+        "answer": "soffriamo",
+        "translation": "We suffer from nostalgia.",
+        "audio": "482_Noi_soffriamo_di_nostalgia.mp3"
+    },
+    {
+        "id": 483,
+        "prompt": "Voi {input} (costruire) una piscina.",
+        "answer": "costruite",
+        "translation": "You all build a pool.",
+        "audio": "483_Voi_costruite_una_piscina.mp3"
+    },
+    {
+        "id": 484,
+        "prompt": "Loro {input} (finire) il libro.",
+        "answer": "finiscono",
+        "translation": "They finish the book.",
+        "audio": "484_Loro_finiscono_il_libro.mp3"
+    },
+
+    {
+        "id": 485,
+        "prompt": "Io {input} (aprire) la finestra.",
+        "answer": "apro",
+        "translation": "I open the window.",
+        "audio": "485_Io_apro_la_finestra.mp3"
+    },
+    {
+        "id": 486,
+        "prompt": "Tu {input} (pulire) il pavimento.",
+        "answer": "pulisci",
+        "translation": "You clean the floor.",
+        "audio": "486_Tu_pulisci_il_pavimento.mp3"
+    },
+    {
+        "id": 487,
+        "prompt": "Lui {input} (seguire) la partita.",
+        "answer": "segue",
+        "translation": "He follows the match.",
+        "audio": "487_Lui_segue_la_partita.mp3"
+    },
+    {
+        "id": 488,
+        "prompt": "Noi {input} (preferire) i film.",
+        "answer": "preferiamo",
+        "translation": "We prefer films.",
+        "audio": "488_Noi_preferiamo_i_film.mp3"
+    },
+    {
+        "id": 489,
+        "prompt": "Voi {input} (unire) le squadre.",
+        "answer": "unite",
+        "translation": "You all unite the teams.",
+        "audio": "489_Voi_unite_le_squadre.mp3"
+    },
+    {
+        "id": 490,
+        "prompt": "Loro {input} (soffrire) di stress.",
+        "answer": "soffrono",
+        "translation": "They suffer from stress.",
+        "audio": "490_Loro_soffrono_di_stress.mp3"
+    },
+    {
+        "id": 491,
+        "prompt": "Io {input} (finire) di leggere.",
+        "answer": "finisco",
+        "translation": "I finish reading.",
+        "audio": "491_Io_finisco_di_leggere.mp3"
+    },
+    {
+        "id": 492,
+        "prompt": "Tu {input} (aprire) il giornale.",
+        "answer": "apri",
+        "translation": "You open the newspaper.",
+        "audio": "492_Tu_apri_il_giornale.mp3"
+    },
+    {
+        "id": 493,
+        "prompt": "Lei {input} (pulire) i piatti.",
+        "answer": "pulisce",
+        "translation": "She cleans the dishes.",
+        "audio": "493_Lei_pulisce_i_piatti.mp3"
+    },
+    {
+        "id": 494,
+        "prompt": "Noi {input} (seguire) le regole.",
+        "answer": "seguiamo",
+        "translation": "We follow the rules.",
+        "audio": "494_Noi_seguiamo_le_regole.mp3"
+    },
+    {
+        "id": 495,
+        "prompt": "Voi {input} (suggerire) un ristorante.",
+        "answer": "suggerite",
+        "translation": "You all suggest a restaurant.",
+        "audio": "495_Voi_suggerite_un_ristorante.mp3"
+    },
+    {
+        "id": 496,
+        "prompt": "Loro {input} (costruire) una statua.",
+        "answer": "costruiscono",
+        "translation": "They build a statue.",
+        "audio": "496_Loro_costruiscono_una_statua.mp3"
+    },
+    {
+        "id": 497,
+        "prompt": "Io {input} (preferire) la natura.",
+        "answer": "preferisco",
+        "translation": "I prefer nature.",
+        "audio": "497_Io_preferisco_la_natura.mp3"
+    },
+    {
+        "id": 498,
+        "prompt": "Tu {input} (unire) le mani.",
+        "answer": "unisci",
+        "translation": "You join hands.",
+        "audio": "498_Tu_unisci_le_mani.mp3"
+    },
+    {
+        "id": 499,
+        "prompt": "Lui {input} (soffrire) di depressione.",
+        "answer": "soffre",
+        "translation": "He suffers from depression.",
+        "audio": "499_Lui_soffre_di_depressione.mp3"
+    },
+    {
+        "id": 500,
+        "prompt": "Noi {input} (finire) il viaggio.",
+        "answer": "finiamo",
+        "translation": "We finish the trip.",
+        "audio": "500_Noi_finiamo_il_viaggio.mp3"
+    }
+]
+
+     
+    
+
+
+
+
+
+    
+
+
